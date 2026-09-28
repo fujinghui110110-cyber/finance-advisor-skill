@@ -1,0 +1,3666 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-09-28",
+  "source_directory_name": "财税政策制度",
+  "total_pdf_copies_found": 359,
+  "unique_pdf_documents": 183,
+  "duplicate_pdf_copies_collapsed": 176,
+  "total_pages": 454,
+  "total_extracted_text_chars": 499028,
+  "extraction_tool": "pdftotext -layout",
+  "records": [
+    {
+      "source_id": "A001",
+      "title": "A001_会计人员职业道德规范（含印发通知）",
+      "category": "会计法律与基础管理",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "03_会计法律及基础管理/A001_会计人员职业道德规范（含印发通知）.pdf",
+      "original_paths": [
+        "03_会计法律及基础管理/A001_会计人员职业道德规范（含印发通知）.pdf",
+        "24_会计法律与基础管理/B007_A001_会计人员职业道德规范（含印发通知）.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "ebe9045985a0c8c8388cad90c531d5d9e4f261913008b782f03d89ecdfcf980d",
+      "pdf_bytes": 132104,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/A001.txt",
+      "pdf_copy_path": "references/pdf/A001.pdf",
+      "extracted_text_sha256": "a7cd230bc23cfe2dfc657bb65f28918216257683952e8081e5dc45a8659267b0",
+      "extracted_text_chars": 1148
+    },
+    {
+      "source_id": "A002",
+      "title": "A002_中华人民共和国会计法（2024年修正）",
+      "category": "会计法律与基础管理",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "03_会计法律及基础管理/A002_中华人民共和国会计法（2024年修正）.pdf",
+      "original_paths": [
+        "03_会计法律及基础管理/A002_中华人民共和国会计法（2024年修正）.pdf",
+        "24_会计法律与基础管理/B008_A002_中华人民共和国会计法（2024年修正）.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "8d7476e8b891a1b31c20ed2203f9a9476d7cd57ce6ab1282a745eff67f9e9b3a",
+      "pdf_bytes": 224278,
+      "pdf_page_count": 7,
+      "extracted_text_path": "references/text/A002.txt",
+      "pdf_copy_path": "references/pdf/A002.pdf",
+      "extracted_text_sha256": "4e1ae208be66a849c6d923c95ba8fcf5081eebcbcdcd7103d18812a722ee83f5",
+      "extracted_text_chars": 7722
+    },
+    {
+      "source_id": "B001",
+      "title": "B001_T001_中华人民共和国增值税法",
+      "category": "税法与增值税",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "01_增值税/B001_T001_中华人民共和国增值税法.pdf",
+      "original_paths": [
+        "01_增值税/B001_T001_中华人民共和国增值税法.pdf",
+        "01_增值税及2026配套政策/T001_中华人民共和国增值税法.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "681784865916698bef1e63d54b886b07efcfc524489e0a5063dfafa700ea0f03",
+      "pdf_bytes": 215771,
+      "pdf_page_count": 6,
+      "extracted_text_path": "references/text/B001.txt",
+      "pdf_copy_path": "references/pdf/B001.pdf",
+      "extracted_text_sha256": "b3d79ebd8939875e77963ec2656a1301bf8fa60d9bb289f8a081b7c0fec35bb5",
+      "extracted_text_chars": 5357
+    },
+    {
+      "source_id": "B002",
+      "title": "B002_T002_中华人民共和国增值税法实施条例",
+      "category": "税法与增值税",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "01_增值税/B002_T002_中华人民共和国增值税法实施条例.pdf",
+      "original_paths": [
+        "01_增值税/B002_T002_中华人民共和国增值税法实施条例.pdf",
+        "01_增值税及2026配套政策/T002_中华人民共和国增值税法实施条例.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "f5a2b382277eff2f2fb1b38920080924da7a98d096ab8816053234a7c7539c37",
+      "pdf_bytes": 223866,
+      "pdf_page_count": 7,
+      "extracted_text_path": "references/text/B002.txt",
+      "pdf_copy_path": "references/pdf/B002.pdf",
+      "extracted_text_sha256": "60e72166d6664a0b07b6bfd6e8d6da3bd28deed5497111fce3c38092270d44af",
+      "extracted_text_chars": 7580
+    },
+    {
+      "source_id": "B177",
+      "title": "B177_YHS01_中华人民共和国印花税法",
+      "category": "印花税与相关税费政策",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "05_印花税/B177_YHS01_中华人民共和国印花税法.pdf",
+      "original_paths": [
+        "05_印花税/B177_YHS01_中华人民共和国印花税法.pdf"
+      ],
+      "duplicate_copy_count": 1,
+      "pdf_sha256": "554cc864faa2823813eec360a67789ccdfc5bd67532e58f4713114046ce88b9e",
+      "pdf_bytes": 602560,
+      "pdf_page_count": 5,
+      "extracted_text_path": "references/text/B177.txt",
+      "pdf_copy_path": "references/pdf/B177.pdf",
+      "extracted_text_sha256": "fc1a7bf49b5266be520d2924f41174f7a72de240974e0cdb4f6ea112c9b9e175",
+      "extracted_text_chars": 5306
+    },
+    {
+      "source_id": "B178",
+      "title": "B178_YHS02_关于印花税若干事项政策执行口径的公告",
+      "category": "印花税与相关税费政策",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "05_印花税/B178_YHS02_关于印花税若干事项政策执行口径的公告.pdf",
+      "original_paths": [
+        "05_印花税/B178_YHS02_关于印花税若干事项政策执行口径的公告.pdf"
+      ],
+      "duplicate_copy_count": 1,
+      "pdf_sha256": "6ac1adce3c41d219d608109c8cb5f1bed12f889457f6e398f083ec07aa4d321b",
+      "pdf_bytes": 524922,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/B178.txt",
+      "pdf_copy_path": "references/pdf/B178.pdf",
+      "extracted_text_sha256": "ccd2ffbe17f314c8aef7ed92b9c0069bf9ee63ee3a22324735992c3abeb31ee9",
+      "extracted_text_chars": 2963
+    },
+    {
+      "source_id": "B179",
+      "title": "B179_YHS03_关于企业改制重组及事业单位改制有关印花税政策的公告",
+      "category": "印花税与相关税费政策",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "05_印花税/B179_YHS03_关于企业改制重组及事业单位改制有关印花税政策的公告.pdf",
+      "original_paths": [
+        "05_印花税/B179_YHS03_关于企业改制重组及事业单位改制有关印花税政策的公告.pdf"
+      ],
+      "duplicate_copy_count": 1,
+      "pdf_sha256": "4953065ebdc7326e583146de4231f7173f2d9f657999126cd48a50b6c4578302",
+      "pdf_bytes": 498388,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/B179.txt",
+      "pdf_copy_path": "references/pdf/B179.pdf",
+      "extracted_text_sha256": "5d549bc7566f5be2c40ef96511956329ab36a69029a1177994ce564c4183b58f",
+      "extracted_text_chars": 2236
+    },
+    {
+      "source_id": "B180",
+      "title": "B180_YHS04_关于进一步支持小微企业和个体工商户发展有关税费政策的公告",
+      "category": "小微企业与融资税费政策（原目录：17_关税）",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "17_关税/B180_YHS04_关于进一步支持小微企业和个体工商户发展有关税费政策的公告.pdf",
+      "original_paths": [
+        "17_关税/B180_YHS04_关于进一步支持小微企业和个体工商户发展有关税费政策的公告.pdf"
+      ],
+      "duplicate_copy_count": 1,
+      "pdf_sha256": "4b9a03cd842317064e8c5ff963d901358e223c77bb9441ab50434dcfb5278c36",
+      "pdf_bytes": 479087,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/B180.txt",
+      "pdf_copy_path": "references/pdf/B180.pdf",
+      "extracted_text_sha256": "9bf451647b6e6425f359c5b3ecea5c850102e0e487cf5c6cfc62275e7bee38c0",
+      "extracted_text_chars": 1844
+    },
+    {
+      "source_id": "B181",
+      "title": "B181_YHS05_关于支持小微企业融资有关税收政策的公告",
+      "category": "小微企业与融资税费政策（原目录：17_关税）",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "17_关税/B181_YHS05_关于支持小微企业融资有关税收政策的公告.pdf",
+      "original_paths": [
+        "17_关税/B181_YHS05_关于支持小微企业融资有关税收政策的公告.pdf"
+      ],
+      "duplicate_copy_count": 1,
+      "pdf_sha256": "ae3598d4353543d97dd00ce4d04af709991d96d6f352bd9f0d2db8e5d680b127",
+      "pdf_bytes": 465987,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/B181.txt",
+      "pdf_copy_path": "references/pdf/B181.pdf",
+      "extracted_text_sha256": "95f21f1ba687efe321d2c1e4895887721444b8ed6b2cd845514fdbb9b7c826f0",
+      "extracted_text_chars": 1272
+    },
+    {
+      "source_id": "B182",
+      "title": "B182_YHS06_关于减半征收证券交易印花税的公告",
+      "category": "印花税与相关税费政策",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "05_印花税/B182_YHS06_关于减半征收证券交易印花税的公告.pdf",
+      "original_paths": [
+        "05_印花税/B182_YHS06_关于减半征收证券交易印花税的公告.pdf"
+      ],
+      "duplicate_copy_count": 1,
+      "pdf_sha256": "80573810e476b03d5cb8ef5472c616ea98c76e48b0383970e9472c4131770c2d",
+      "pdf_bytes": 430446,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/B182.txt",
+      "pdf_copy_path": "references/pdf/B182.pdf",
+      "extracted_text_sha256": "8df9768faee7879fa9bc9b1d199a96c82ac1e569701294c9cb4c2f216f5c7b33",
+      "extracted_text_chars": 639
+    },
+    {
+      "source_id": "B183",
+      "title": "B183_YHS07_关于继续实施离岸贸易印花税优惠政策的通知",
+      "category": "印花税与相关税费政策",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "05_印花税/B183_YHS07_关于继续实施离岸贸易印花税优惠政策的通知.pdf",
+      "original_paths": [
+        "05_印花税/B183_YHS07_关于继续实施离岸贸易印花税优惠政策的通知.pdf"
+      ],
+      "duplicate_copy_count": 1,
+      "pdf_sha256": "5a45a5bca8291e2b32734f82fe98258c3b33e0dd132661eaaa302a91a328cb5c",
+      "pdf_bytes": 456610,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/B183.txt",
+      "pdf_copy_path": "references/pdf/B183.pdf",
+      "extracted_text_sha256": "606fcab3e1a986e1dcc6c257ed842ebd0c9b2630afdceedc7d19e51ba2dc8868",
+      "extracted_text_chars": 1050
+    },
+    {
+      "source_id": "CAS00",
+      "title": "CAS00_企业会计准则——基本准则",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS00_企业会计准则——基本准则.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS00_企业会计准则——基本准则.pdf",
+        "25_会计准则与实施材料/B009_CAS00_企业会计准则——基本准则.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "d5dcfb1f872959c270a7fa5011f7404d898e1f4e87c74cdd51a7809409b71998",
+      "pdf_bytes": 171485,
+      "pdf_page_count": 5,
+      "extracted_text_path": "references/text/CAS00.txt",
+      "pdf_copy_path": "references/pdf/CAS00.pdf",
+      "extracted_text_sha256": "ea55c2f8bd28a1f80fb6ada8e6b549c82057118180d38966a129654f7c09d2be",
+      "extracted_text_chars": 5042
+    },
+    {
+      "source_id": "CAS01",
+      "title": "CAS01_企业会计准则第1号——存货",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS01_企业会计准则第1号——存货.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS01_企业会计准则第1号——存货.pdf",
+        "25_会计准则与实施材料/B010_CAS01_企业会计准则第1号——存货.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "75edd9b2ea453dd08877651ce2282e31afb16abb453b8903a7a2052a1d886ba3",
+      "pdf_bytes": 149990,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS01.txt",
+      "pdf_copy_path": "references/pdf/CAS01.pdf",
+      "extracted_text_sha256": "8984d0a7f32df77b29e5c984a111c4a6f0a540e29737830b2ebcfa664f0c5d39",
+      "extracted_text_chars": 2769
+    },
+    {
+      "source_id": "CAS02",
+      "title": "CAS02_企业会计准则第2号——长期股权投资",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS02_企业会计准则第2号——长期股权投资.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS02_企业会计准则第2号——长期股权投资.pdf",
+        "25_会计准则与实施材料/B011_CAS02_企业会计准则第2号——长期股权投资.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "33a4e77563acde226a06426f974f31ffd168a94267ce20ab0e19d973253c7711",
+      "pdf_bytes": 156017,
+      "pdf_page_count": 4,
+      "extracted_text_path": "references/text/CAS02.txt",
+      "pdf_copy_path": "references/pdf/CAS02.pdf",
+      "extracted_text_sha256": "6345fd1661435e22f6d750c926348fec0bcf73514bd0b6149144a19fcc022758",
+      "extracted_text_chars": 4948
+    },
+    {
+      "source_id": "CAS03",
+      "title": "CAS03_企业会计准则第3号——投资性房地产",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS03_企业会计准则第3号——投资性房地产.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS03_企业会计准则第3号——投资性房地产.pdf",
+        "25_会计准则与实施材料/B012_CAS03_企业会计准则第3号——投资性房地产.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "ec25ff617500d63ef680c0ec25c27a7093c9b0960fb11fe6587e85831141a62a",
+      "pdf_bytes": 140525,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS03.txt",
+      "pdf_copy_path": "references/pdf/CAS03.pdf",
+      "extracted_text_sha256": "e45940a8c766659b6609767fd71edd0f3a05ac9aee58a99532e86bfd7f0177f8",
+      "extracted_text_chars": 2605
+    },
+    {
+      "source_id": "CAS04",
+      "title": "CAS04_企业会计准则第4号——固定资产",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS04_企业会计准则第4号——固定资产.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS04_企业会计准则第4号——固定资产.pdf",
+        "25_会计准则与实施材料/B013_CAS04_企业会计准则第4号——固定资产.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "b35aaf33584e416c402bfbaf1447f0f6a4b3b7a95248060acd29ddda31a848c9",
+      "pdf_bytes": 154705,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS04.txt",
+      "pdf_copy_path": "references/pdf/CAS04.pdf",
+      "extracted_text_sha256": "7ee2587f9aa6b5e611bfa815a4b1d7178e55043e380de455769b6d208578198a",
+      "extracted_text_chars": 3088
+    },
+    {
+      "source_id": "CAS05",
+      "title": "CAS05_企业会计准则第5号——生物资产",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS05_企业会计准则第5号——生物资产.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS05_企业会计准则第5号——生物资产.pdf",
+        "25_会计准则与实施材料/B014_CAS05_企业会计准则第5号——生物资产.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "ee2b768d9a5c7370d4fa243dde772fae86a02bf2588fd9c9e6466269627a1103",
+      "pdf_bytes": 187187,
+      "pdf_page_count": 4,
+      "extracted_text_path": "references/text/CAS05.txt",
+      "pdf_copy_path": "references/pdf/CAS05.pdf",
+      "extracted_text_sha256": "38e7dbc9e067bfb000f14b65ec294857113c749059b36d13b2222a552a30e9e4",
+      "extracted_text_chars": 4028
+    },
+    {
+      "source_id": "CAS06",
+      "title": "CAS06_企业会计准则第6号——无形资产",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS06_企业会计准则第6号——无形资产.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS06_企业会计准则第6号——无形资产.pdf",
+        "25_会计准则与实施材料/B015_CAS06_企业会计准则第6号——无形资产.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "b90f7d17bd02a989539ff96be3252d6c7a902e6b2e649b6cb658b223bd0a0e33",
+      "pdf_bytes": 162106,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS06.txt",
+      "pdf_copy_path": "references/pdf/CAS06.pdf",
+      "extracted_text_sha256": "c1a9e0a178beb53d73d6c8648310d8463ff684c0e2365e0ca9d30149507332d6",
+      "extracted_text_chars": 3336
+    },
+    {
+      "source_id": "CAS07",
+      "title": "CAS07_企业会计准则第7号——非货币性资产交换",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS07_企业会计准则第7号——非货币性资产交换.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS07_企业会计准则第7号——非货币性资产交换.pdf",
+        "25_会计准则与实施材料/B016_CAS07_企业会计准则第7号——非货币性资产交换.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "7244a7ab2470dfbc7c27f8976453eb9909004330af9d74dafa235302341172bd",
+      "pdf_bytes": 140177,
+      "pdf_page_count": 4,
+      "extracted_text_path": "references/text/CAS07.txt",
+      "pdf_copy_path": "references/pdf/CAS07.pdf",
+      "extracted_text_sha256": "05e251e59126d7eafd4d4baf837a469110b0ea5fa520cbb10fba183cc12c48d3",
+      "extracted_text_chars": 4147
+    },
+    {
+      "source_id": "CAS08",
+      "title": "CAS08_企业会计准则第8号——资产减值",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS08_企业会计准则第8号——资产减值.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS08_企业会计准则第8号——资产减值.pdf",
+        "25_会计准则与实施材料/B017_CAS08_企业会计准则第8号——资产减值.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "e0bdf3e247beb13b2f3f80497aaf72d76d5aa2f5f1df2efc862979ef1e4dfcbb",
+      "pdf_bytes": 211921,
+      "pdf_page_count": 6,
+      "extracted_text_path": "references/text/CAS08.txt",
+      "pdf_copy_path": "references/pdf/CAS08.pdf",
+      "extracted_text_sha256": "78a567fdbb9e9a260aa01822626646189dacc975f16411e94a88712712ae774f",
+      "extracted_text_chars": 7764
+    },
+    {
+      "source_id": "CAS09",
+      "title": "CAS09_企业会计准则第9号——职工薪酬",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS09_企业会计准则第9号——职工薪酬.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS09_企业会计准则第9号——职工薪酬.pdf",
+        "25_会计准则与实施材料/B018_CAS09_企业会计准则第9号——职工薪酬.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "04df75826c9a265aca2dbcd0cb0f4291ac542a1448dde18f3612d6589b3ea2e7",
+      "pdf_bytes": 200651,
+      "pdf_page_count": 5,
+      "extracted_text_path": "references/text/CAS09.txt",
+      "pdf_copy_path": "references/pdf/CAS09.pdf",
+      "extracted_text_sha256": "200e868e33146ee20c2d158a07eb64de2143f9bf01323da3eb2bc94b93672580",
+      "extracted_text_chars": 6053
+    },
+    {
+      "source_id": "CAS11",
+      "title": "CAS11_企业会计准则第11号——股份支付",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS11_企业会计准则第11号——股份支付.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS11_企业会计准则第11号——股份支付.pdf",
+        "25_会计准则与实施材料/B019_CAS11_企业会计准则第11号——股份支付.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "5ec53043be25d9a76086bd2135d10a901a85c2451788c60074834edaec93589a",
+      "pdf_bytes": 127216,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/CAS11.txt",
+      "pdf_copy_path": "references/pdf/CAS11.pdf",
+      "extracted_text_sha256": "68d8ed0da7cc9942282cc919bdcbc80cd7ef7bc31d0aed81b414c42f49d31867",
+      "extracted_text_chars": 2504
+    },
+    {
+      "source_id": "CAS12",
+      "title": "CAS12_企业会计准则第12号——债务重组",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS12_企业会计准则第12号——债务重组.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS12_企业会计准则第12号——债务重组.pdf",
+        "25_会计准则与实施材料/B020_CAS12_企业会计准则第12号——债务重组.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "6e69b4f6fe76d4295bab0045964d8e9c45405c123ac778fa0f4963b73a177cae",
+      "pdf_bytes": 136950,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS12.txt",
+      "pdf_copy_path": "references/pdf/CAS12.pdf",
+      "extracted_text_sha256": "05f50212b929925d09107cb8360befa74ad44f3bf8643c2d8a8bc2545961b450",
+      "extracted_text_chars": 3086
+    },
+    {
+      "source_id": "CAS13",
+      "title": "CAS13_企业会计准则第13号——或有事项",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS13_企业会计准则第13号——或有事项.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS13_企业会计准则第13号——或有事项.pdf",
+        "25_会计准则与实施材料/B021_CAS13_企业会计准则第13号——或有事项.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c3c89f3e90a9a6ea905e0bd2013782c69b537e8c5ebc1c7f03bafc79995e3bb4",
+      "pdf_bytes": 145157,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/CAS13.txt",
+      "pdf_copy_path": "references/pdf/CAS13.pdf",
+      "extracted_text_sha256": "641b43179f63e984ac7034755cdf62ef41923b8393be2afa9af983cc80b32734",
+      "extracted_text_chars": 2344
+    },
+    {
+      "source_id": "CAS14",
+      "title": "CAS14_企业会计准则第14号——收入",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS14_企业会计准则第14号——收入.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS14_企业会计准则第14号——收入.pdf",
+        "25_会计准则与实施材料/B022_CAS14_企业会计准则第14号——收入.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "2d70cc55ee8b59a043fdfcd29fa92c1bfd6712a2845c810ec7c3cd5d35222408",
+      "pdf_bytes": 222854,
+      "pdf_page_count": 10,
+      "extracted_text_path": "references/text/CAS14.txt",
+      "pdf_copy_path": "references/pdf/CAS14.pdf",
+      "extracted_text_sha256": "86ad270492760ef86da8f7824d8038bbd987477122cd8fe2a4d366d9f586377d",
+      "extracted_text_chars": 12180
+    },
+    {
+      "source_id": "CAS16",
+      "title": "CAS16_企业会计准则第16号——政府补助",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS16_企业会计准则第16号——政府补助.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS16_企业会计准则第16号——政府补助.pdf",
+        "25_会计准则与实施材料/B023_CAS16_企业会计准则第16号——政府补助.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "4c72ea4f0f27253284f2f67f84afbab64bddf83847111d12902ca4d87c39747c",
+      "pdf_bytes": 142909,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS16.txt",
+      "pdf_copy_path": "references/pdf/CAS16.pdf",
+      "extracted_text_sha256": "37b9052254e3f0509ffdbcf8778ae8d1a98fce09e3d25a9d0b6e6f8244c9d0d9",
+      "extracted_text_chars": 2708
+    },
+    {
+      "source_id": "CAS17",
+      "title": "CAS17_企业会计准则第17号——借款费用",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS17_企业会计准则第17号——借款费用.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS17_企业会计准则第17号——借款费用.pdf",
+        "25_会计准则与实施材料/B024_CAS17_企业会计准则第17号——借款费用.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "de945d069d6391402e532b121ade26f60863d9d702c4d8f75cf14187cb660223",
+      "pdf_bytes": 136448,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS17.txt",
+      "pdf_copy_path": "references/pdf/CAS17.pdf",
+      "extracted_text_sha256": "4feb5859921b8a5a6f5b5d45ed1e2e76ca3fae04168b62cb128dfb7583c86c9f",
+      "extracted_text_chars": 2762
+    },
+    {
+      "source_id": "CAS18",
+      "title": "CAS18_企业会计准则第18号——所得税",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS18_企业会计准则第18号——所得税.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS18_企业会计准则第18号——所得税.pdf",
+        "25_会计准则与实施材料/B025_CAS18_企业会计准则第18号——所得税.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "9bb77cf71ccd5427b6fdfd8c613ddf62889703bba3dfd7692588be4a3ab2e10e",
+      "pdf_bytes": 136050,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS18.txt",
+      "pdf_copy_path": "references/pdf/CAS18.pdf",
+      "extracted_text_sha256": "28a52b5bfb8f3e46acfde5b3f41dd916fe585ecf7b9978341bed1a4002143d8b",
+      "extracted_text_chars": 3111
+    },
+    {
+      "source_id": "CAS19",
+      "title": "CAS19_企业会计准则第19号——外币折算",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS19_企业会计准则第19号——外币折算.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS19_企业会计准则第19号——外币折算.pdf",
+        "25_会计准则与实施材料/B026_CAS19_企业会计准则第19号——外币折算.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "4caf8f74a1cfcf3c0ef3b32e20afa5e8f5a2ba3d06930ed98353d355e7d2dbb3",
+      "pdf_bytes": 142691,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS19.txt",
+      "pdf_copy_path": "references/pdf/CAS19.pdf",
+      "extracted_text_sha256": "e9d1902383c441c7a4144bc007a6dc4fda3e368d6da04f55b786e118a03f43ba",
+      "extracted_text_chars": 2759
+    },
+    {
+      "source_id": "CAS20",
+      "title": "CAS20_企业会计准则第20号——企业合并",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS20_企业会计准则第20号——企业合并.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS20_企业会计准则第20号——企业合并.pdf",
+        "25_会计准则与实施材料/B027_CAS20_企业会计准则第20号——企业合并.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "1d9dca369edbb9d3b8ff5442de66ed14505f31116da45acdddb8d928af5e29c1",
+      "pdf_bytes": 146278,
+      "pdf_page_count": 4,
+      "extracted_text_path": "references/text/CAS20.txt",
+      "pdf_copy_path": "references/pdf/CAS20.pdf",
+      "extracted_text_sha256": "f8f777ab46aa6ef8e12769178a484293b1e87a293885411a6704d7012eb764e0",
+      "extracted_text_chars": 4157
+    },
+    {
+      "source_id": "CAS21",
+      "title": "CAS21_企业会计准则第21号——租赁",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS21_企业会计准则第21号——租赁.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS21_企业会计准则第21号——租赁.pdf",
+        "25_会计准则与实施材料/B028_CAS21_企业会计准则第21号——租赁.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "4128d3b8b7bbb7ea91b37a49780be441e87f3ad094298c858f1202dcf066d263",
+      "pdf_bytes": 241561,
+      "pdf_page_count": 11,
+      "extracted_text_path": "references/text/CAS21.txt",
+      "pdf_copy_path": "references/pdf/CAS21.pdf",
+      "extracted_text_sha256": "e82b6dd740edb6bca8feca2e06b8364151a11b06d2b0ae9ce47b7acfdb96a3a5",
+      "extracted_text_chars": 13161
+    },
+    {
+      "source_id": "CAS22",
+      "title": "CAS22_企业会计准则第22号——金融工具确认和计量（2017年版）",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS22_企业会计准则第22号——金融工具确认和计量（2017年版）.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS22_企业会计准则第22号——金融工具确认和计量（2017年版）.pdf",
+        "25_会计准则与实施材料/B029_CAS22_企业会计准则第22号——金融工具确认和计量（2017年版）.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "22e07e4e2d0b7b41f63e5efdf7ed2bb9fb0546a812d567b1958734dbb4161451",
+      "pdf_bytes": 265444,
+      "pdf_page_count": 16,
+      "extracted_text_path": "references/text/CAS22.txt",
+      "pdf_copy_path": "references/pdf/CAS22.pdf",
+      "extracted_text_sha256": "9bc37a1c48fdd102c89dc65bc2d54fe4cf9aeb4dcc9437714c48e5e9b25d2efd",
+      "extracted_text_chars": 21714
+    },
+    {
+      "source_id": "CAS23",
+      "title": "CAS23_企业会计准则第23号——金融资产转移（2017年版）",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS23_企业会计准则第23号——金融资产转移（2017年版）.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS23_企业会计准则第23号——金融资产转移（2017年版）.pdf",
+        "25_会计准则与实施材料/B030_CAS23_企业会计准则第23号——金融资产转移（2017年版）.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "e15731c391ed563c5b5be9867040737d00434faa9adf5e44b496c48375ee4e16",
+      "pdf_bytes": 202920,
+      "pdf_page_count": 7,
+      "extracted_text_path": "references/text/CAS23.txt",
+      "pdf_copy_path": "references/pdf/CAS23.pdf",
+      "extracted_text_sha256": "28645008f147dc05cba74687262e9d0ef8ce08b87d2cb77557a8436961464ff7",
+      "extracted_text_chars": 8891
+    },
+    {
+      "source_id": "CAS24",
+      "title": "CAS24_企业会计准则第24号——套期会计（2017年版）",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS24_企业会计准则第24号——套期会计（2017年版）.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS24_企业会计准则第24号——套期会计（2017年版）.pdf",
+        "25_会计准则与实施材料/B031_CAS24_企业会计准则第24号——套期会计（2017年版）.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "2e63a6955fab398bf635d01532f743fc273bc2e83f76a0eb332fe2bf5b07783e",
+      "pdf_bytes": 210731,
+      "pdf_page_count": 9,
+      "extracted_text_path": "references/text/CAS24.txt",
+      "pdf_copy_path": "references/pdf/CAS24.pdf",
+      "extracted_text_sha256": "f66d86cda625ad2eabbf080691a00401a77a93f2ee16b6c61f1b6436640fb66e",
+      "extracted_text_chars": 11340
+    },
+    {
+      "source_id": "CAS25",
+      "title": "CAS25_企业会计准则第25号——保险合同（2020年版）",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS25_企业会计准则第25号——保险合同（2020年版）.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS25_企业会计准则第25号——保险合同（2020年版）.pdf",
+        "25_会计准则与实施材料/B032_CAS25_企业会计准则第25号——保险合同（2020年版）.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "e1723af93083e4e0e8bdb849ee054e1e04969663c9b8446a33f501f33dd83825",
+      "pdf_bytes": 272973,
+      "pdf_page_count": 21,
+      "extracted_text_path": "references/text/CAS25.txt",
+      "pdf_copy_path": "references/pdf/CAS25.pdf",
+      "extracted_text_sha256": "d0b0d1929dc133f388101122bd1b0e2654b90bdebac15ffb04fe06301c1c1ee9",
+      "extracted_text_chars": 24536
+    },
+    {
+      "source_id": "CAS27",
+      "title": "CAS27_企业会计准则第27号——石油天然气开采",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS27_企业会计准则第27号——石油天然气开采.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS27_企业会计准则第27号——石油天然气开采.pdf",
+        "25_会计准则与实施材料/B033_CAS27_企业会计准则第27号——石油天然气开采.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "ef24f6b39b2e1a2c01702b3e5d39b86938c4943778eaaa2015949eaaad0e4ec3",
+      "pdf_bytes": 180583,
+      "pdf_page_count": 4,
+      "extracted_text_path": "references/text/CAS27.txt",
+      "pdf_copy_path": "references/pdf/CAS27.pdf",
+      "extracted_text_sha256": "2e2df5c930f4523b96ef428962485773c0ce1abe03d3833ce37ba1b1fa4c1dc3",
+      "extracted_text_chars": 4339
+    },
+    {
+      "source_id": "CAS28",
+      "title": "CAS28_企业会计准则第28号——会计政策、会计估计变更和差错更正",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS28_企业会计准则第28号——会计政策、会计估计变更和差错更正.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS28_企业会计准则第28号——会计政策、会计估计变更和差错更正.pdf",
+        "25_会计准则与实施材料/B034_CAS28_企业会计准则第28号——会计政策、会计估计变更和差错更正.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c320ada68369a79737a3123f3b3c345c6a33cf36ecb153a2d1c5bf0018d2e769",
+      "pdf_bytes": 138292,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS28.txt",
+      "pdf_copy_path": "references/pdf/CAS28.pdf",
+      "extracted_text_sha256": "e8ef9b4948d0e993a8ec0ad9bfe8c3093f4a67737ee284fc91dee2f941509dce",
+      "extracted_text_chars": 2721
+    },
+    {
+      "source_id": "CAS29",
+      "title": "CAS29_企业会计准则第29号——资产负债表日后事项",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS29_企业会计准则第29号——资产负债表日后事项.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS29_企业会计准则第29号——资产负债表日后事项.pdf",
+        "25_会计准则与实施材料/B035_CAS29_企业会计准则第29号——资产负债表日后事项.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "308769f345529a6a3568e13030cddfe5ba86c7c6956cf5d387b708ab0483ad20",
+      "pdf_bytes": 128622,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/CAS29.txt",
+      "pdf_copy_path": "references/pdf/CAS29.pdf",
+      "extracted_text_sha256": "649551c7d5195897287438b50bc8ab91d3ee79c380f09c9c9c99ca501523a885",
+      "extracted_text_chars": 1778
+    },
+    {
+      "source_id": "CAS30",
+      "title": "CAS30_企业会计准则第30号——财务报表列报（2014年版）",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS30_企业会计准则第30号——财务报表列报（2014年版）.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS30_企业会计准则第30号——财务报表列报（2014年版）.pdf",
+        "25_会计准则与实施材料/B036_CAS30_企业会计准则第30号——财务报表列报（2014年版）.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "8b6a59d8847b37db1c5fd95ebb2a33fab6f343e19f1304dd512b0fb113019a03",
+      "pdf_bytes": 215074,
+      "pdf_page_count": 8,
+      "extracted_text_path": "references/text/CAS30.txt",
+      "pdf_copy_path": "references/pdf/CAS30.pdf",
+      "extracted_text_sha256": "c84158f1987e28f6f61feb89ab5cb6d8af0beac9ac6e686a397fd1086581e780",
+      "extracted_text_chars": 8007
+    },
+    {
+      "source_id": "CAS31",
+      "title": "CAS31_企业会计准则第31号——现金流量表",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS31_企业会计准则第31号——现金流量表.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS31_企业会计准则第31号——现金流量表.pdf",
+        "25_会计准则与实施材料/B037_CAS31_企业会计准则第31号——现金流量表.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "011ed960894ed3b7513f51cf6b8ee77cc7a70c31ad19325a1cf91079eb3b9320",
+      "pdf_bytes": 148521,
+      "pdf_page_count": 4,
+      "extracted_text_path": "references/text/CAS31.txt",
+      "pdf_copy_path": "references/pdf/CAS31.pdf",
+      "extracted_text_sha256": "65cc1e4ef63edcca3230fbb075e9049c4e9d05103bca4a1858d6205c1ff9b51b",
+      "extracted_text_chars": 2898
+    },
+    {
+      "source_id": "CAS32",
+      "title": "CAS32_企业会计准则第32号——中期财务报告",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS32_企业会计准则第32号——中期财务报告.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS32_企业会计准则第32号——中期财务报告.pdf",
+        "25_会计准则与实施材料/B038_CAS32_企业会计准则第32号——中期财务报告.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "9679fa4b8fcdfb45e195eeb1820d773358df873f382d5ed5362f801fde1c6153",
+      "pdf_bytes": 145957,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS32.txt",
+      "pdf_copy_path": "references/pdf/CAS32.pdf",
+      "extracted_text_sha256": "23082b30bf297d8e0bc707bb4fccc556e0d20d66efd21fb6822d150b584c0108",
+      "extracted_text_chars": 3169
+    },
+    {
+      "source_id": "CAS33",
+      "title": "CAS33_企业会计准则第33号——合并财务报表",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS33_企业会计准则第33号——合并财务报表.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS33_企业会计准则第33号——合并财务报表.pdf",
+        "25_会计准则与实施材料/B039_CAS33_企业会计准则第33号——合并财务报表.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "15e8fdee458fb76c90c4fc0f42bd69d2cdafe1a8af31ce2557047ce65200667f",
+      "pdf_bytes": 220663,
+      "pdf_page_count": 9,
+      "extracted_text_path": "references/text/CAS33.txt",
+      "pdf_copy_path": "references/pdf/CAS33.pdf",
+      "extracted_text_sha256": "6457e90a64e64173d6760d455ef3085f9a97bd3066c3ecfeece2d30f780f52ae",
+      "extracted_text_chars": 10385
+    },
+    {
+      "source_id": "CAS34",
+      "title": "CAS34_企业会计准则第34号——每股收益",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS34_企业会计准则第34号——每股收益.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS34_企业会计准则第34号——每股收益.pdf",
+        "25_会计准则与实施材料/B040_CAS34_企业会计准则第34号——每股收益.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c4aab8fa52abad7e75673f48edfbdb2a707ed41432f0427cdc0c1fb286378c75",
+      "pdf_bytes": 131866,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/CAS34.txt",
+      "pdf_copy_path": "references/pdf/CAS34.pdf",
+      "extracted_text_sha256": "226cd0706a85863ca650991fffdafc12f20cd536827344f16c7c944aad715b51",
+      "extracted_text_chars": 2403
+    },
+    {
+      "source_id": "CAS35",
+      "title": "CAS35_企业会计准则第35号——分部报告",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS35_企业会计准则第35号——分部报告.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS35_企业会计准则第35号——分部报告.pdf",
+        "25_会计准则与实施材料/B041_CAS35_企业会计准则第35号——分部报告.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "e5ab4ed70eeb1a643c5fe389d182afa51083c2a2a0c595fe33c9d56eedbd4f50",
+      "pdf_bytes": 155720,
+      "pdf_page_count": 4,
+      "extracted_text_path": "references/text/CAS35.txt",
+      "pdf_copy_path": "references/pdf/CAS35.pdf",
+      "extracted_text_sha256": "ba32f3f50ed3d4a53b513a1131a5508061486960234e14f21678c754e4594c76",
+      "extracted_text_chars": 3872
+    },
+    {
+      "source_id": "CAS36",
+      "title": "CAS36_企业会计准则第36号——关联方披露",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS36_企业会计准则第36号——关联方披露.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS36_企业会计准则第36号——关联方披露.pdf",
+        "25_会计准则与实施材料/B042_CAS36_企业会计准则第36号——关联方披露.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "1685a4401edec1a8ca955579ed0819fc3ea6a88df0bed198361adaaecfb2d907",
+      "pdf_bytes": 135822,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS36.txt",
+      "pdf_copy_path": "references/pdf/CAS36.pdf",
+      "extracted_text_sha256": "7aa3fd776d8a1363fb1c0d0422b6367874a4c618af1bd5546c184c5077be5c78",
+      "extracted_text_chars": 2308
+    },
+    {
+      "source_id": "CAS37",
+      "title": "CAS37_企业会计准则第37号——金融工具列报（2017年版）",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS37_企业会计准则第37号——金融工具列报（2017年版）.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS37_企业会计准则第37号——金融工具列报（2017年版）.pdf",
+        "25_会计准则与实施材料/B043_CAS37_企业会计准则第37号——金融工具列报（2017年版）.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "3500c1f3054e923d1540d2e512a3d4d6ae1048bbcf4525af84d90f9be190257b",
+      "pdf_bytes": 301864,
+      "pdf_page_count": 22,
+      "extracted_text_path": "references/text/CAS37.txt",
+      "pdf_copy_path": "references/pdf/CAS37.pdf",
+      "extracted_text_sha256": "8a92f9dbf17b162f0df992b04b790e08d051a851cf14620d5cf558cde5e8306d",
+      "extracted_text_chars": 26927
+    },
+    {
+      "source_id": "CAS38",
+      "title": "CAS38_企业会计准则第38号——首次执行企业会计准则",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS38_企业会计准则第38号——首次执行企业会计准则.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS38_企业会计准则第38号——首次执行企业会计准则.pdf",
+        "25_会计准则与实施材料/B044_CAS38_企业会计准则第38号——首次执行企业会计准则.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "b2b3eb84f433691c331e61df80d9eabc56367d53db11852f3c4f7cbbe9edaef2",
+      "pdf_bytes": 149406,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS38.txt",
+      "pdf_copy_path": "references/pdf/CAS38.pdf",
+      "extracted_text_sha256": "a4ecae5352c8621853ce70558785dfdaaf1fb9ad1aac0a61593c5e3d65946120",
+      "extracted_text_chars": 3677
+    },
+    {
+      "source_id": "CAS39",
+      "title": "CAS39_企业会计准则第39号——公允价值计量",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS39_企业会计准则第39号——公允价值计量.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS39_企业会计准则第39号——公允价值计量.pdf",
+        "25_会计准则与实施材料/B045_CAS39_企业会计准则第39号——公允价值计量.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "a47c2ecd4439460b1c39ab774631e2cc8dbd1f3f26a55a0fafc36eec22e1a0de",
+      "pdf_bytes": 227153,
+      "pdf_page_count": 9,
+      "extracted_text_path": "references/text/CAS39.txt",
+      "pdf_copy_path": "references/pdf/CAS39.pdf",
+      "extracted_text_sha256": "23b92aadbdf5eea204f79c9a78a546364e9e1f8d6540b8b96c2cdc7d05099d06",
+      "extracted_text_chars": 11478
+    },
+    {
+      "source_id": "CAS40",
+      "title": "CAS40_企业会计准则第40号——合营安排",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS40_企业会计准则第40号——合营安排.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS40_企业会计准则第40号——合营安排.pdf",
+        "25_会计准则与实施材料/B046_CAS40_企业会计准则第40号——合营安排.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "73e72b003080bab38ec8bb41f21848fded6cd120145ede196d1538b8d20324b7",
+      "pdf_bytes": 153363,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/CAS40.txt",
+      "pdf_copy_path": "references/pdf/CAS40.pdf",
+      "extracted_text_sha256": "7f53f72f7607b7ab8a93e4d5bec4455a377fc894b6513f9dcc32149a7d67cd3b",
+      "extracted_text_chars": 3418
+    },
+    {
+      "source_id": "CAS41",
+      "title": "CAS41_企业会计准则第41号——在其他主体中权益的披露",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS41_企业会计准则第41号——在其他主体中权益的披露.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS41_企业会计准则第41号——在其他主体中权益的披露.pdf",
+        "25_会计准则与实施材料/B047_CAS41_企业会计准则第41号——在其他主体中权益的披露.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "8cb162c91936f7b612b93694c3b2967c7a25f798ba9cf87725788effc0b000c0",
+      "pdf_bytes": 170559,
+      "pdf_page_count": 5,
+      "extracted_text_path": "references/text/CAS41.txt",
+      "pdf_copy_path": "references/pdf/CAS41.pdf",
+      "extracted_text_sha256": "29b0073217ba1001316f056141fed74a67633ca8de0851b848e370630b7fe3b5",
+      "extracted_text_chars": 5672
+    },
+    {
+      "source_id": "CAS42",
+      "title": "CAS42_企业会计准则第42号——持有待售的非流动资产、处置组和终止经营",
+      "category": "企业会计准则正文",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "04_企业会计准则正文/CAS42_企业会计准则第42号——持有待售的非流动资产、处置组和终止经营.pdf",
+      "original_paths": [
+        "04_企业会计准则正文/CAS42_企业会计准则第42号——持有待售的非流动资产、处置组和终止经营.pdf",
+        "25_会计准则与实施材料/B048_CAS42_企业会计准则第42号——持有待售的非流动资产、处置组和终止经营.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "23e20bde35d25b04c7120b88b177bbcd2e905dedf88243e82dd1cf215b7bba53",
+      "pdf_bytes": 173003,
+      "pdf_page_count": 5,
+      "extracted_text_path": "references/text/CAS42.txt",
+      "pdf_copy_path": "references/pdf/CAS42.pdf",
+      "extracted_text_sha256": "cf339d13b171dcc897956a69d7d82e1b92a797e769bd55984913cfca57ac35bf",
+      "extracted_text_chars": 5492
+    },
+    {
+      "source_id": "F001",
+      "title": "F001_关于境内单位代扣代缴自然人增值税有关申报事项公告的解读",
+      "category": "已发布尚未施行",
+      "authority_layer": "future_or_pending",
+      "status_hint": "来源目录标为已发布尚未施行；必须回到正文核对施行日和过渡条款",
+      "canonical_original_path": "90_已发布尚未施行/F001_关于境内单位代扣代缴自然人增值税有关申报事项公告的解读.pdf",
+      "original_paths": [
+        "90_已发布尚未施行/F001_关于境内单位代扣代缴自然人增值税有关申报事项公告的解读.pdf",
+        "90_已发布未施行/B175_F001_关于境内单位代扣代缴自然人增值税有关申报事项公告的解读.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "5ed6f735e468acb974c4e1bfe152c3c667374199db3eabfa9825fed531263493",
+      "pdf_bytes": 118052,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/F001.txt",
+      "pdf_copy_path": "references/pdf/F001.pdf",
+      "extracted_text_sha256": "86815de4ddb85248db32187d41d9096c1a6308d8556a74294d19d2a2736a2ce4",
+      "extracted_text_chars": 1671
+    },
+    {
+      "source_id": "F030",
+      "title": "F030_企业会计准则第30号——财务报表列报（2026年版）",
+      "category": "已发布尚未施行",
+      "authority_layer": "future_or_pending",
+      "status_hint": "来源目录标为已发布尚未施行；必须回到正文核对施行日和过渡条款",
+      "canonical_original_path": "90_已发布尚未施行/F030_企业会计准则第30号——财务报表列报（2026年版）.pdf",
+      "original_paths": [
+        "90_已发布尚未施行/F030_企业会计准则第30号——财务报表列报（2026年版）.pdf",
+        "90_已发布未施行/B176_F030_企业会计准则第30号——财务报表列报（2026年版）.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "2bd4b1b8186c729b7b063c2502ea5541488d203d95031490f2328a723be573f7",
+      "pdf_bytes": 249581,
+      "pdf_page_count": 14,
+      "extracted_text_path": "references/text/F030.txt",
+      "pdf_copy_path": "references/pdf/F030.pdf",
+      "extracted_text_sha256": "5e4c757a3e8bb52947d2382af7e7aac870a0365395a4bc1832e53189461e88cd",
+      "extracted_text_chars": 15644
+    },
+    {
+      "source_id": "INT01",
+      "title": "INT01_企业会计准则解释第1号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT01_企业会计准则解释第1号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT01_企业会计准则解释第1号.pdf",
+        "25_会计准则与实施材料/B049_INT01_企业会计准则解释第1号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "5097c565e184226ac48688f02dee1f538c992dd4fc94557e70cc844652f35a14",
+      "pdf_bytes": 176471,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/INT01.txt",
+      "pdf_copy_path": "references/pdf/INT01.pdf",
+      "extracted_text_sha256": "2acfbee7e3663f16203ded081651651ed67263b2f5333827d4b6530ff0aa6d89",
+      "extracted_text_chars": 4436
+    },
+    {
+      "source_id": "INT02",
+      "title": "INT02_企业会计准则解释第2号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT02_企业会计准则解释第2号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT02_企业会计准则解释第2号.pdf",
+        "25_会计准则与实施材料/B050_INT02_企业会计准则解释第2号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "9ee1d2eea36469039982e12d081eeedf7f300a8cd607263976105c2209740251",
+      "pdf_bytes": 149852,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/INT02.txt",
+      "pdf_copy_path": "references/pdf/INT02.pdf",
+      "extracted_text_sha256": "631e97981615be3ccbac49d87f1e73db7fe29c806a34e16472fda2e9c42c2e5e",
+      "extracted_text_chars": 3359
+    },
+    {
+      "source_id": "INT03",
+      "title": "INT03_企业会计准则解释第3号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT03_企业会计准则解释第3号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT03_企业会计准则解释第3号.pdf",
+        "25_会计准则与实施材料/B051_INT03_企业会计准则解释第3号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "275b7af71b4dbb86ac59a91bedce6a37c15ae8974f862e7fe7d04fd69022e67b",
+      "pdf_bytes": 183675,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/INT03.txt",
+      "pdf_copy_path": "references/pdf/INT03.pdf",
+      "extracted_text_sha256": "9b475716172d8ca5406310a4e210e3f279cd18055d36ed184d6baf771c94660f",
+      "extracted_text_chars": 3976
+    },
+    {
+      "source_id": "INT04",
+      "title": "INT04_企业会计准则解释第4号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT04_企业会计准则解释第4号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT04_企业会计准则解释第4号.pdf",
+        "25_会计准则与实施材料/B052_INT04_企业会计准则解释第4号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "8588658726b21f85050c79469de30a040cf0d56162a3be5b77f392ee9bc4b0cd",
+      "pdf_bytes": 155952,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/INT04.txt",
+      "pdf_copy_path": "references/pdf/INT04.pdf",
+      "extracted_text_sha256": "35ce0b7b547299d85ce5e75c26907c1fc08fa7988cc381ce33ad5fbcad05cd4c",
+      "extracted_text_chars": 4190
+    },
+    {
+      "source_id": "INT05",
+      "title": "INT05_企业会计准则解释第5号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT05_企业会计准则解释第5号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT05_企业会计准则解释第5号.pdf",
+        "25_会计准则与实施材料/B053_INT05_企业会计准则解释第5号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "0c308eafed7b280a46fc5bbb28a3963b8730199afae096a5da2cfcf16122c0e9",
+      "pdf_bytes": 173717,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/INT05.txt",
+      "pdf_copy_path": "references/pdf/INT05.pdf",
+      "extracted_text_sha256": "6260516a2ed7fe06a34c809fdee582fc79daa974e67cf6f136ed33767f75e95e",
+      "extracted_text_chars": 3730
+    },
+    {
+      "source_id": "INT06",
+      "title": "INT06_企业会计准则解释第6号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT06_企业会计准则解释第6号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT06_企业会计准则解释第6号.pdf",
+        "25_会计准则与实施材料/B054_INT06_企业会计准则解释第6号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "1fd31c9823455474bcfb9eac445f30093ccb5df9ccb6953e7e75223a39dc1d46",
+      "pdf_bytes": 126566,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/INT06.txt",
+      "pdf_copy_path": "references/pdf/INT06.pdf",
+      "extracted_text_sha256": "bfaa7c5ff83bebf868fd26313c02d595fca347cef4194ffafd5e28b004fb9c0d",
+      "extracted_text_chars": 1452
+    },
+    {
+      "source_id": "INT07",
+      "title": "INT07_企业会计准则解释第7号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT07_企业会计准则解释第7号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT07_企业会计准则解释第7号.pdf",
+        "25_会计准则与实施材料/B055_INT07_企业会计准则解释第7号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "2bf214026510cb3e0521f2fb31e7d51c52cb4959565a027fa946aab4b1ac412e",
+      "pdf_bytes": 185164,
+      "pdf_page_count": 4,
+      "extracted_text_path": "references/text/INT07.txt",
+      "pdf_copy_path": "references/pdf/INT07.pdf",
+      "extracted_text_sha256": "572d7793d27c7cd94c8c5bf827d90b3deb4d42f506af59f1cac4130e1bf66d5b",
+      "extracted_text_chars": 5968
+    },
+    {
+      "source_id": "INT08",
+      "title": "INT08_企业会计准则解释第8号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT08_企业会计准则解释第8号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT08_企业会计准则解释第8号.pdf",
+        "25_会计准则与实施材料/B056_INT08_企业会计准则解释第8号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "20a9595e8b76056722c0f39256493a772695b0618d03b9b7b46782a868eca64d",
+      "pdf_bytes": 174197,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/INT08.txt",
+      "pdf_copy_path": "references/pdf/INT08.pdf",
+      "extracted_text_sha256": "5e1746f49ca971ade89d84a488324a530615d3f279a398f7f2fad640fd19e98e",
+      "extracted_text_chars": 3470
+    },
+    {
+      "source_id": "INT09",
+      "title": "INT09_企业会计准则解释第9号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT09_企业会计准则解释第9号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT09_企业会计准则解释第9号.pdf",
+        "25_会计准则与实施材料/B057_INT09_企业会计准则解释第9号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "7e964035fc219bebc4ac2a0439da73d28de9f9a2cb5c14d9e1381eafe87b46e1",
+      "pdf_bytes": 115634,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/INT09.txt",
+      "pdf_copy_path": "references/pdf/INT09.pdf",
+      "extracted_text_sha256": "4aae6cce541b6063cd123e8073fc7cfa20df554438ec0966beb79e7074032846",
+      "extracted_text_chars": 1538
+    },
+    {
+      "source_id": "INT10",
+      "title": "INT10_企业会计准则解释第10号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT10_企业会计准则解释第10号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT10_企业会计准则解释第10号.pdf",
+        "25_会计准则与实施材料/B058_INT10_企业会计准则解释第10号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "f47c1f80cfd067d47f34efbde248eb4ccb396dd982f9abab714bef2e96bb59e5",
+      "pdf_bytes": 109683,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/INT10.txt",
+      "pdf_copy_path": "references/pdf/INT10.pdf",
+      "extracted_text_sha256": "c13e6c4b12446dfb680ecb54ecba2d3edf0a67ec30f56ff3ee87ea9503168709",
+      "extracted_text_chars": 1045
+    },
+    {
+      "source_id": "INT11",
+      "title": "INT11_企业会计准则解释第11号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT11_企业会计准则解释第11号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT11_企业会计准则解释第11号.pdf",
+        "25_会计准则与实施材料/B059_INT11_企业会计准则解释第11号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "92f7ecdd853175cf54ea882510ec3b308cab7629d90dddd4d9d426124da7e555",
+      "pdf_bytes": 120465,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/INT11.txt",
+      "pdf_copy_path": "references/pdf/INT11.pdf",
+      "extracted_text_sha256": "1907bae3cbb0b5fe4909165696784b6dae35974ffaab7f81292cb4afee686eab",
+      "extracted_text_chars": 1311
+    },
+    {
+      "source_id": "INT12",
+      "title": "INT12_企业会计准则解释第12号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT12_企业会计准则解释第12号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT12_企业会计准则解释第12号.pdf",
+        "25_会计准则与实施材料/B060_INT12_企业会计准则解释第12号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "f2337b5b427a3c918cf6f2429e5ac301c1cd997a45acb3c89264fb91486589d8",
+      "pdf_bytes": 105610,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/INT12.txt",
+      "pdf_copy_path": "references/pdf/INT12.pdf",
+      "extracted_text_sha256": "132744c7d581334916256790a3f6e2b1cf2fa2f2a6f0c677839dfb547867d2e5",
+      "extracted_text_chars": 1100
+    },
+    {
+      "source_id": "INT13",
+      "title": "INT13_企业会计准则解释第13号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT13_企业会计准则解释第13号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT13_企业会计准则解释第13号.pdf",
+        "25_会计准则与实施材料/B061_INT13_企业会计准则解释第13号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "8c2c034186629510344c0dcc3cb74f69305f1af396457021ee54fa92475d609f",
+      "pdf_bytes": 148334,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/INT13.txt",
+      "pdf_copy_path": "references/pdf/INT13.pdf",
+      "extracted_text_sha256": "74819894e63bd4d698fad8e465fb26ca9ab4da3d11a87ba79afca441c90d5558",
+      "extracted_text_chars": 2760
+    },
+    {
+      "source_id": "INT14",
+      "title": "INT14_企业会计准则解释第14号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT14_企业会计准则解释第14号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT14_企业会计准则解释第14号.pdf",
+        "25_会计准则与实施材料/B062_INT14_企业会计准则解释第14号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "dc795cefc366f3aa112adb44d0329d1205956ef7a7028471efe24d5252470944",
+      "pdf_bytes": 181955,
+      "pdf_page_count": 4,
+      "extracted_text_path": "references/text/INT14.txt",
+      "pdf_copy_path": "references/pdf/INT14.pdf",
+      "extracted_text_sha256": "27797b5973a95668b8d26829531f21a4b77a542018e7cc6b090cce7f973e5436",
+      "extracted_text_chars": 5182
+    },
+    {
+      "source_id": "INT15",
+      "title": "INT15_企业会计准则解释第15号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT15_企业会计准则解释第15号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT15_企业会计准则解释第15号.pdf",
+        "25_会计准则与实施材料/B063_INT15_企业会计准则解释第15号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "5a8dbb2bff88ff89e43875f9602e8dd3deb61b0ddb511ec3462ddb9c337ad6e0",
+      "pdf_bytes": 144489,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/INT15.txt",
+      "pdf_copy_path": "references/pdf/INT15.pdf",
+      "extracted_text_sha256": "28c8fc7d7b72900ebc90c68f2ef28e1beae4b0a7a2374e29bfef3e7f6108ee31",
+      "extracted_text_chars": 3091
+    },
+    {
+      "source_id": "INT16",
+      "title": "INT16_企业会计准则解释第16号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT16_企业会计准则解释第16号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT16_企业会计准则解释第16号.pdf",
+        "25_会计准则与实施材料/B064_INT16_企业会计准则解释第16号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c5ad5f9ddf51699c53eb3cf4a148ac178044e6da1e971b22d93af70c3ccb52fd",
+      "pdf_bytes": 134376,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/INT16.txt",
+      "pdf_copy_path": "references/pdf/INT16.pdf",
+      "extracted_text_sha256": "43734c60fcf0250a64d11feb8ca614f2986de9c4a8d80addc5298962283be06e",
+      "extracted_text_chars": 2666
+    },
+    {
+      "source_id": "INT17",
+      "title": "INT17_企业会计准则解释第17号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT17_企业会计准则解释第17号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT17_企业会计准则解释第17号.pdf",
+        "25_会计准则与实施材料/B065_INT17_企业会计准则解释第17号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "996ac87951fda2b9dc13d2d3667271831b8a7e32fa51b889464f39d40d7e1529",
+      "pdf_bytes": 153426,
+      "pdf_page_count": 3,
+      "extracted_text_path": "references/text/INT17.txt",
+      "pdf_copy_path": "references/pdf/INT17.pdf",
+      "extracted_text_sha256": "af3d1c0b04f6cbedde5858a44bb23341a5f8195483ac501c706b2ad9a0da2966",
+      "extracted_text_chars": 3320
+    },
+    {
+      "source_id": "INT18",
+      "title": "INT18_企业会计准则解释第18号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT18_企业会计准则解释第18号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT18_企业会计准则解释第18号.pdf",
+        "25_会计准则与实施材料/B066_INT18_企业会计准则解释第18号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "5440b81ac1453fcbbd62bed16632852f31824ae111b21e8c99f3a92f6d6bbe4a",
+      "pdf_bytes": 117884,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/INT18.txt",
+      "pdf_copy_path": "references/pdf/INT18.pdf",
+      "extracted_text_sha256": "4bfd2e376002d8367c369d5ec6c27b51fb7fc5df5895b8c1b804ebb40760eeb2",
+      "extracted_text_chars": 1759
+    },
+    {
+      "source_id": "INT19",
+      "title": "INT19_企业会计准则解释第19号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT19_企业会计准则解释第19号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT19_企业会计准则解释第19号.pdf",
+        "25_会计准则与实施材料/B067_INT19_企业会计准则解释第19号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "38f83ba3f8ea282fd81b2b757f97449f83458d20b895329c9fc743e2a3cb7fae",
+      "pdf_bytes": 184692,
+      "pdf_page_count": 4,
+      "extracted_text_path": "references/text/INT19.txt",
+      "pdf_copy_path": "references/pdf/INT19.pdf",
+      "extracted_text_sha256": "86142ae8e712860b4cecc6f072ead8d88c0130f324e44e1e735ffd46a38d9144",
+      "extracted_text_chars": 5269
+    },
+    {
+      "source_id": "INT20",
+      "title": "INT20_企业会计准则解释第20号",
+      "category": "企业会计准则解释",
+      "authority_layer": "formal_interpretation",
+      "status_hint": "正式准则解释；须与对应准则正文及生效安排联读",
+      "canonical_original_path": "05_企业会计准则解释/INT20_企业会计准则解释第20号.pdf",
+      "original_paths": [
+        "05_企业会计准则解释/INT20_企业会计准则解释第20号.pdf",
+        "25_会计准则与实施材料/B068_INT20_企业会计准则解释第20号.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "062492039fc73ce1eff6b2bb1383ecbce5fcb6a7640c8e3b0f6807855df8ffff",
+      "pdf_bytes": 191752,
+      "pdf_page_count": 4,
+      "extracted_text_path": "references/text/INT20.txt",
+      "pdf_copy_path": "references/pdf/INT20.pdf",
+      "extracted_text_sha256": "0df962907f9ab52fb6af5c827bf7f6f9b940715294ea9a9083cb58d6ca57b7cb",
+      "extracted_text_chars": 5170
+    },
+    {
+      "source_id": "QA001",
+      "title": "QA001_会计司实施问答·存货准则_汽车销售企业在日常活动中购进并用于销售的二手车，应当",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA001_会计司实施问答·存货准则_汽车销售企业在日常活动中购进并用于销售的二手车，应当.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA001_会计司实施问答·存货准则_汽车销售企业在日常活动中购进并用于销售的二手车，应当.pdf",
+        "25_会计准则与实施材料/B069_QA001_会计司实施问答·存货准则_汽车销售企业在日常活动中购进并用于销售的二手车，应当.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c1311eb225315d3cc58530bbfe75ff7b9489f637cb5615e36e8135f9a58f7d19",
+      "pdf_bytes": 97575,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA001.txt",
+      "pdf_copy_path": "references/pdf/QA001.pdf",
+      "extracted_text_sha256": "ea5ae251cf20775f1fb215a9967b5bdd512b9a44686eaad7396539caf2d601c7",
+      "extracted_text_chars": 781
+    },
+    {
+      "source_id": "QA002",
+      "title": "QA002_会计司实施问答·长期股权投资准则_投资方的联营企业作为合并方发生同一控制下企业合并的情",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA002_会计司实施问答·长期股权投资准则_投资方的联营企业作为合并方发生同一控制下企业合并的情.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA002_会计司实施问答·长期股权投资准则_投资方的联营企业作为合并方发生同一控制下企业合并的情.pdf",
+        "25_会计准则与实施材料/B070_QA002_会计司实施问答·长期股权投资准则_投资方的联营企业作为合并方发生同一控制下企业合并的情.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "2456b66a90d6c871d7ff3da19fb901c46e0346038e4b457e8a090ba9134c8e5f",
+      "pdf_bytes": 105974,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA002.txt",
+      "pdf_copy_path": "references/pdf/QA002.pdf",
+      "extracted_text_sha256": "af5d4716f888b3c2997836a93ed33d878ada8bcc192f8277540f458eb9691833",
+      "extracted_text_chars": 1069
+    },
+    {
+      "source_id": "QA003",
+      "title": "QA003_会计司实施问答·长期股权投资准则_乙公司为中国境内非上市保险企业。甲公司持有乙公司30",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA003_会计司实施问答·长期股权投资准则_乙公司为中国境内非上市保险企业。甲公司持有乙公司30.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA003_会计司实施问答·长期股权投资准则_乙公司为中国境内非上市保险企业。甲公司持有乙公司30.pdf",
+        "25_会计准则与实施材料/B071_QA003_会计司实施问答·长期股权投资准则_乙公司为中国境内非上市保险企业。甲公司持有乙公司30.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "27e2fb057e42f44be8d722887b0bf72022d6cad2d5ccbc1908b2c41c82e83927",
+      "pdf_bytes": 104992,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA003.txt",
+      "pdf_copy_path": "references/pdf/QA003.pdf",
+      "extracted_text_sha256": "155fd9d32ca5af3bad1b971af5ae54e949337176aa2e6a12f1cf94763a0584ff",
+      "extracted_text_chars": 1090
+    },
+    {
+      "source_id": "QA004",
+      "title": "QA004_会计司实施问答·长期股权投资准则_上市公司乙公司是甲公司的联营企业。乙公司向员工以非公",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA004_会计司实施问答·长期股权投资准则_上市公司乙公司是甲公司的联营企业。乙公司向员工以非公.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA004_会计司实施问答·长期股权投资准则_上市公司乙公司是甲公司的联营企业。乙公司向员工以非公.pdf",
+        "25_会计准则与实施材料/B072_QA004_会计司实施问答·长期股权投资准则_上市公司乙公司是甲公司的联营企业。乙公司向员工以非公.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "363689a7d634482cc29d3c59ca697ec172ef44ddc5e6f2ecd2f5b344b40d799e",
+      "pdf_bytes": 110619,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA004.txt",
+      "pdf_copy_path": "references/pdf/QA004.pdf",
+      "extracted_text_sha256": "75b0dfd3a49c305faa02a5176f08c9e193821b6ff8dd61256f75455a3f863f71",
+      "extracted_text_chars": 1053
+    },
+    {
+      "source_id": "QA005",
+      "title": "QA005_会计司实施问答·长期股权投资准则_投资方与其联营企业或合营企业之间发生投出或出售资产交",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA005_会计司实施问答·长期股权投资准则_投资方与其联营企业或合营企业之间发生投出或出售资产交.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA005_会计司实施问答·长期股权投资准则_投资方与其联营企业或合营企业之间发生投出或出售资产交.pdf",
+        "25_会计准则与实施材料/B073_QA005_会计司实施问答·长期股权投资准则_投资方与其联营企业或合营企业之间发生投出或出售资产交.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c2c4d3fff99f4427b722ff046ba614a61f77e81b6fe84ef059949166e1b35bbf",
+      "pdf_bytes": 98468,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA005.txt",
+      "pdf_copy_path": "references/pdf/QA005.pdf",
+      "extracted_text_sha256": "152429fb06c8c3d4140fb4afb72ec2c8513987069115c475bd325b3854690079",
+      "extracted_text_chars": 1128
+    },
+    {
+      "source_id": "QA006",
+      "title": "QA006_会计司实施问答·长期股权投资准则_联营企业或合营企业自2021年1月1日起执行新收入准",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA006_会计司实施问答·长期股权投资准则_联营企业或合营企业自2021年1月1日起执行新收入准.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA006_会计司实施问答·长期股权投资准则_联营企业或合营企业自2021年1月1日起执行新收入准.pdf",
+        "25_会计准则与实施材料/B074_QA006_会计司实施问答·长期股权投资准则_联营企业或合营企业自2021年1月1日起执行新收入准.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "f7b1e7e82f00eb703ccba80bf03636e9900a18a1207acfdad0943f8305a28c66",
+      "pdf_bytes": 100347,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA006.txt",
+      "pdf_copy_path": "references/pdf/QA006.pdf",
+      "extracted_text_sha256": "ce13a0cc9c4b2d422b77ec64385a4c22620c1f585ecddf0cc0cbe702e85a5868",
+      "extracted_text_chars": 930
+    },
+    {
+      "source_id": "QA007",
+      "title": "QA007_会计司实施问答·财务报表列报准则_企业对于期限在一年或一个营业周期以上的保证类质量保证",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA007_会计司实施问答·财务报表列报准则_企业对于期限在一年或一个营业周期以上的保证类质量保证.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA007_会计司实施问答·财务报表列报准则_企业对于期限在一年或一个营业周期以上的保证类质量保证.pdf",
+        "25_会计准则与实施材料/B075_QA007_会计司实施问答·财务报表列报准则_企业对于期限在一年或一个营业周期以上的保证类质量保证.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c1b56654ab67a31dad20de9b11c7fc6d8f6ad34529bf4575e073c3d788c1d865",
+      "pdf_bytes": 93974,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA007.txt",
+      "pdf_copy_path": "references/pdf/QA007.pdf",
+      "extracted_text_sha256": "982fd835f965c7f083cccdf4170afe3c51f66425746ae6f0903351792e04fa5d",
+      "extracted_text_chars": 833
+    },
+    {
+      "source_id": "QA008",
+      "title": "QA008_会计司实施问答·固定资产准则_甲公司持有某大厦写字楼（含玻璃幕墙），甲公司按照《企",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA008_会计司实施问答·固定资产准则_甲公司持有某大厦写字楼（含玻璃幕墙），甲公司按照《企.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA008_会计司实施问答·固定资产准则_甲公司持有某大厦写字楼（含玻璃幕墙），甲公司按照《企.pdf",
+        "25_会计准则与实施材料/B076_QA008_会计司实施问答·固定资产准则_甲公司持有某大厦写字楼（含玻璃幕墙），甲公司按照《企.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "ed69007c4e93946e7a4f36eb34deaf0e1f5e10ad28444d8b84ad9c71bac23c4b",
+      "pdf_bytes": 119521,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA008.txt",
+      "pdf_copy_path": "references/pdf/QA008.pdf",
+      "extracted_text_sha256": "3d7425be45edf227bd428f33234c1d45a150c2c498f4b93c42d53de4e03acfd2",
+      "extracted_text_chars": 1271
+    },
+    {
+      "source_id": "QA009",
+      "title": "QA009_会计司实施问答·固定资产准则_不符合固定资产资本化后续支出条件的固定资产日常修理费",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA009_会计司实施问答·固定资产准则_不符合固定资产资本化后续支出条件的固定资产日常修理费.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA009_会计司实施问答·固定资产准则_不符合固定资产资本化后续支出条件的固定资产日常修理费.pdf",
+        "25_会计准则与实施材料/B077_QA009_会计司实施问答·固定资产准则_不符合固定资产资本化后续支出条件的固定资产日常修理费.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "20be8b5ded58dcbf42e456cb7f0b978222a50f888f158c68687063311255f915",
+      "pdf_bytes": 91794,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA009.txt",
+      "pdf_copy_path": "references/pdf/QA009.pdf",
+      "extracted_text_sha256": "9273f64d64c2664a80aa9dc3257d2684235e8d06db1f1b14f58c131ae0873d6d",
+      "extracted_text_chars": 788
+    },
+    {
+      "source_id": "QA010",
+      "title": "QA010_会计司实施问答·股份支付准则_某企业对职工实行股权激励计划，并约定了服务期和业绩条",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA010_会计司实施问答·股份支付准则_某企业对职工实行股权激励计划，并约定了服务期和业绩条.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA010_会计司实施问答·股份支付准则_某企业对职工实行股权激励计划，并约定了服务期和业绩条.pdf",
+        "25_会计准则与实施材料/B078_QA010_会计司实施问答·股份支付准则_某企业对职工实行股权激励计划，并约定了服务期和业绩条.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "11f1b1e1e2ae4a6b21d32078ea151c3c23076ee83740d82ae463acb059945381",
+      "pdf_bytes": 106408,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA010.txt",
+      "pdf_copy_path": "references/pdf/QA010.pdf",
+      "extracted_text_sha256": "313efb9aee70f8f877240c76f803882b91291b0bebdd2748d5a376dd93a314a9",
+      "extracted_text_chars": 995
+    },
+    {
+      "source_id": "QA011",
+      "title": "QA011_会计司实施问答·股份支付准则_某国内企业的境外母公司在集团内实施股权激励计划且适用",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA011_会计司实施问答·股份支付准则_某国内企业的境外母公司在集团内实施股权激励计划且适用.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA011_会计司实施问答·股份支付准则_某国内企业的境外母公司在集团内实施股权激励计划且适用.pdf",
+        "25_会计准则与实施材料/B079_QA011_会计司实施问答·股份支付准则_某国内企业的境外母公司在集团内实施股权激励计划且适用.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "34ad1d277ec4a1955cccd9246831d4de6c1269d5074399678a34313c45839a89",
+      "pdf_bytes": 91499,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA011.txt",
+      "pdf_copy_path": "references/pdf/QA011.pdf",
+      "extracted_text_sha256": "74066ebddfb0db8ba34e481a71c55344d532ca7be73177d59470a197abf5e44e",
+      "extracted_text_chars": 737
+    },
+    {
+      "source_id": "QA012",
+      "title": "QA012_会计司实施问答·合并财务报表准则_甲公司处置其唯一子公司并丧失控制权，在处置子公司当期",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA012_会计司实施问答·合并财务报表准则_甲公司处置其唯一子公司并丧失控制权，在处置子公司当期.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA012_会计司实施问答·合并财务报表准则_甲公司处置其唯一子公司并丧失控制权，在处置子公司当期.pdf",
+        "25_会计准则与实施材料/B080_QA012_会计司实施问答·合并财务报表准则_甲公司处置其唯一子公司并丧失控制权，在处置子公司当期.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c79c69395017a8184e46252cc9eacddb5a6d150fd96a422f24f659ba83d8262c",
+      "pdf_bytes": 100708,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA012.txt",
+      "pdf_copy_path": "references/pdf/QA012.pdf",
+      "extracted_text_sha256": "69992f5cfe9f73a8fcf5439b0de06a10a25f9dab18ef028064ad7b80959f6827",
+      "extracted_text_chars": 938
+    },
+    {
+      "source_id": "QA013",
+      "title": "QA013_会计司实施问答·合并财务报表准则_甲公司在202×年报告期内处置了唯一的子公司，并且于",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA013_会计司实施问答·合并财务报表准则_甲公司在202×年报告期内处置了唯一的子公司，并且于.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA013_会计司实施问答·合并财务报表准则_甲公司在202×年报告期内处置了唯一的子公司，并且于.pdf",
+        "25_会计准则与实施材料/B081_QA013_会计司实施问答·合并财务报表准则_甲公司在202×年报告期内处置了唯一的子公司，并且于.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "0a21be18b1ea41c1bb75b72552e3a73446e46631976491be444973afe36fdf33",
+      "pdf_bytes": 100752,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA013.txt",
+      "pdf_copy_path": "references/pdf/QA013.pdf",
+      "extracted_text_sha256": "f47f2505a02e90b4c7eb0c55216e1091a0a5eec6c0bc81acb646ddfaba64625e",
+      "extracted_text_chars": 920
+    },
+    {
+      "source_id": "QA014",
+      "title": "QA014_会计司实施问答·借款费用准则_甲公司委托乙设备生产商建造大型定制专用设备，定制周期",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA014_会计司实施问答·借款费用准则_甲公司委托乙设备生产商建造大型定制专用设备，定制周期.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA014_会计司实施问答·借款费用准则_甲公司委托乙设备生产商建造大型定制专用设备，定制周期.pdf",
+        "25_会计准则与实施材料/B082_QA014_会计司实施问答·借款费用准则_甲公司委托乙设备生产商建造大型定制专用设备，定制周期.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "ea463f6d4ad6ff7f6060998742242130c57935e09c68add868efeb843bbc331e",
+      "pdf_bytes": 112876,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA014.txt",
+      "pdf_copy_path": "references/pdf/QA014.pdf",
+      "extracted_text_sha256": "90a981b089de35e4d3a43f07ffc0b680edbf51f7a3d4664c840f44576b5d23ae",
+      "extracted_text_chars": 1109
+    },
+    {
+      "source_id": "QA015",
+      "title": "QA015_会计司实施问答·借款费用准则_新矿产资源法下探矿权专门借款费用资本化问题",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA015_会计司实施问答·借款费用准则_新矿产资源法下探矿权专门借款费用资本化问题.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA015_会计司实施问答·借款费用准则_新矿产资源法下探矿权专门借款费用资本化问题.pdf",
+        "25_会计准则与实施材料/B083_QA015_会计司实施问答·借款费用准则_新矿产资源法下探矿权专门借款费用资本化问题.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "eee781c823142189f5585e07ec16b113fb29cf26d670ce16702f6cb232934797",
+      "pdf_bytes": 126869,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA015.txt",
+      "pdf_copy_path": "references/pdf/QA015.pdf",
+      "extracted_text_sha256": "3d9a04a9c0402eadaffabdcad6f02b23d119e5f4b351c9352a11945badd61e8f",
+      "extracted_text_chars": 1527
+    },
+    {
+      "source_id": "QA016",
+      "title": "QA016_会计司实施问答·借款费用准则_用于开发建造房屋建筑物的土地使用权是否满足《企业会计",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA016_会计司实施问答·借款费用准则_用于开发建造房屋建筑物的土地使用权是否满足《企业会计.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA016_会计司实施问答·借款费用准则_用于开发建造房屋建筑物的土地使用权是否满足《企业会计.pdf",
+        "25_会计准则与实施材料/B084_QA016_会计司实施问答·借款费用准则_用于开发建造房屋建筑物的土地使用权是否满足《企业会计.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "5c518451952fc0ea7c2ad4b5065fb39288df54e57b69b35161a5516a0edfdf00",
+      "pdf_bytes": 106382,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA016.txt",
+      "pdf_copy_path": "references/pdf/QA016.pdf",
+      "extracted_text_sha256": "601382b3e3dbdb3507e2929f6b0948166b790b4adbcaf78a42770c445916f00c",
+      "extracted_text_chars": 1167
+    },
+    {
+      "source_id": "QA017",
+      "title": "QA017_会计司实施问答·金融工具准则_对于持有的合同挂钩工具，企业应当如何适用金融资产的分",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA017_会计司实施问答·金融工具准则_对于持有的合同挂钩工具，企业应当如何适用金融资产的分.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA017_会计司实施问答·金融工具准则_对于持有的合同挂钩工具，企业应当如何适用金融资产的分.pdf",
+        "25_会计准则与实施材料/B085_QA017_会计司实施问答·金融工具准则_对于持有的合同挂钩工具，企业应当如何适用金融资产的分.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "0daaf56cb6e5dd004eb18850c733902ee568c24176c65eb9031eb8757d74a44e",
+      "pdf_bytes": 120015,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA017.txt",
+      "pdf_copy_path": "references/pdf/QA017.pdf",
+      "extracted_text_sha256": "a63e2c6c6bd7bf05dc432905f9c771f82c42f401eaf7b9f6d52120795e3ed04e",
+      "extracted_text_chars": 1482
+    },
+    {
+      "source_id": "QA018",
+      "title": "QA018_会计司实施问答·金融工具准则_企业应如何判断一项金融工具是否属于合同挂钩工具？就持",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA018_会计司实施问答·金融工具准则_企业应如何判断一项金融工具是否属于合同挂钩工具？就持.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA018_会计司实施问答·金融工具准则_企业应如何判断一项金融工具是否属于合同挂钩工具？就持.pdf",
+        "25_会计准则与实施材料/B086_QA018_会计司实施问答·金融工具准则_企业应如何判断一项金融工具是否属于合同挂钩工具？就持.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "42e5444f0511b43173e089b152bf9a82c11fb80f7f926aafe3b48f088065bde9",
+      "pdf_bytes": 117676,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA018.txt",
+      "pdf_copy_path": "references/pdf/QA018.pdf",
+      "extracted_text_sha256": "833a8886e38c40b7b8bde3ad38e310c2ce466f363085e97aa46ade5886abc5df",
+      "extracted_text_chars": 1344
+    },
+    {
+      "source_id": "QA019",
+      "title": "QA019_会计司实施问答·金融工具准则_对于一项具有无追索权特征的金融资产，企业应当如何判断",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA019_会计司实施问答·金融工具准则_对于一项具有无追索权特征的金融资产，企业应当如何判断.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA019_会计司实施问答·金融工具准则_对于一项具有无追索权特征的金融资产，企业应当如何判断.pdf",
+        "25_会计准则与实施材料/B087_QA019_会计司实施问答·金融工具准则_对于一项具有无追索权特征的金融资产，企业应当如何判断.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "06e6e4046a815772950d8f7f6d08e6a583e510482dbf0e8c985d7ec67b081472",
+      "pdf_bytes": 109142,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA019.txt",
+      "pdf_copy_path": "references/pdf/QA019.pdf",
+      "extracted_text_sha256": "571bcc54f2a141786a8d0efbed6bb29b3bae8a052bb50036a2993ae8350d4be6",
+      "extracted_text_chars": 1104
+    },
+    {
+      "source_id": "QA020",
+      "title": "QA020_会计司实施问答·金融工具准则_企业应如何判断一项金融资产是否具有无追索权特征？",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA020_会计司实施问答·金融工具准则_企业应如何判断一项金融资产是否具有无追索权特征？.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA020_会计司实施问答·金融工具准则_企业应如何判断一项金融资产是否具有无追索权特征？.pdf",
+        "25_会计准则与实施材料/B088_QA020_会计司实施问答·金融工具准则_企业应如何判断一项金融资产是否具有无追索权特征？.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c809f9aa4f3a5af3ba064831eeace508619ff9636f413db2136bb768c5d1154f",
+      "pdf_bytes": 118568,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA020.txt",
+      "pdf_copy_path": "references/pdf/QA020.pdf",
+      "extracted_text_sha256": "39214c74a78b0099b065e6ced459a8fa6d7b7c51659c4f6d385de4c708737b75",
+      "extracted_text_chars": 1325
+    },
+    {
+      "source_id": "QA021",
+      "title": "QA021_会计司实施问答·金融工具准则_甲银行委托信托公司设立资产证券化信托计划，将不良贷款",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA021_会计司实施问答·金融工具准则_甲银行委托信托公司设立资产证券化信托计划，将不良贷款.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA021_会计司实施问答·金融工具准则_甲银行委托信托公司设立资产证券化信托计划，将不良贷款.pdf",
+        "25_会计准则与实施材料/B089_QA021_会计司实施问答·金融工具准则_甲银行委托信托公司设立资产证券化信托计划，将不良贷款.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c73a528a2a6de3935bcba12f3660076e37ecb938361af41204547dee93c6ef98",
+      "pdf_bytes": 106364,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA021.txt",
+      "pdf_copy_path": "references/pdf/QA021.pdf",
+      "extracted_text_sha256": "7a42af12af27d0074741a7e76bec1da5ee6e5b55566d174b6931adcc720c64ed",
+      "extracted_text_chars": 1032
+    },
+    {
+      "source_id": "QA022",
+      "title": "QA022_会计司实施问答·金融工具准则_对于包含导致合同现金流量时间分布或金额变动的或有特征",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA022_会计司实施问答·金融工具准则_对于包含导致合同现金流量时间分布或金额变动的或有特征.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA022_会计司实施问答·金融工具准则_对于包含导致合同现金流量时间分布或金额变动的或有特征.pdf",
+        "25_会计准则与实施材料/B090_QA022_会计司实施问答·金融工具准则_对于包含导致合同现金流量时间分布或金额变动的或有特征.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "5af481b885b682bc7b521209be750eeaf5df7459029d72ce98449a2affad332e",
+      "pdf_bytes": 109181,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA022.txt",
+      "pdf_copy_path": "references/pdf/QA022.pdf",
+      "extracted_text_sha256": "fb7f9bb5904668fee0169794ee835ef2014417086beec05b72a00562cca77b6c",
+      "extracted_text_chars": 1535
+    },
+    {
+      "source_id": "QA023",
+      "title": "QA023_会计司实施问答·金融工具准则_企业在期货交易场所频繁买卖标准仓单（即由交割库开具并",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA023_会计司实施问答·金融工具准则_企业在期货交易场所频繁买卖标准仓单（即由交割库开具并.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA023_会计司实施问答·金融工具准则_企业在期货交易场所频繁买卖标准仓单（即由交割库开具并.pdf",
+        "25_会计准则与实施材料/B091_QA023_会计司实施问答·金融工具准则_企业在期货交易场所频繁买卖标准仓单（即由交割库开具并.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "6d61dd99a642676c11e42f612cec4e44f5211d4324f21753cefc21e30b1e876a",
+      "pdf_bytes": 112518,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA023.txt",
+      "pdf_copy_path": "references/pdf/QA023.pdf",
+      "extracted_text_sha256": "b7f2e88cadff65b806236695261c9a1f229620e3138ad935509663fa6d4510f0",
+      "extracted_text_chars": 1064
+    },
+    {
+      "source_id": "QA024",
+      "title": "QA024_会计司实施问答·金融工具准则_甲公司持有某结构化主体的份额（甲公司对该结构化主体不",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA024_会计司实施问答·金融工具准则_甲公司持有某结构化主体的份额（甲公司对该结构化主体不.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA024_会计司实施问答·金融工具准则_甲公司持有某结构化主体的份额（甲公司对该结构化主体不.pdf",
+        "25_会计准则与实施材料/B092_QA024_会计司实施问答·金融工具准则_甲公司持有某结构化主体的份额（甲公司对该结构化主体不.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "9fc3c7c3f5802231400b3a1fdd205da203b74b35e81c9c2233132c6bad1de221",
+      "pdf_bytes": 107077,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA024.txt",
+      "pdf_copy_path": "references/pdf/QA024.pdf",
+      "extracted_text_sha256": "bb3513598159af5a3eef1ae49bbfd00e8fd6e7818f4aa7499bc71aeb0325a965",
+      "extracted_text_chars": 1104
+    },
+    {
+      "source_id": "QA025",
+      "title": "QA025_会计司实施问答·金融工具准则_在计量金融工具的预期信用损失时，应当如何考虑财务担保",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA025_会计司实施问答·金融工具准则_在计量金融工具的预期信用损失时，应当如何考虑财务担保.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA025_会计司实施问答·金融工具准则_在计量金融工具的预期信用损失时，应当如何考虑财务担保.pdf",
+        "25_会计准则与实施材料/B093_QA025_会计司实施问答·金融工具准则_在计量金融工具的预期信用损失时，应当如何考虑财务担保.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "39374ba7f95df89e2388372586428adb9938f26f0d90cb51f5ed16ef0b81ddeb",
+      "pdf_bytes": 99621,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA025.txt",
+      "pdf_copy_path": "references/pdf/QA025.pdf",
+      "extracted_text_sha256": "42e52a3152dd56dd262d1f0c25ae6260bbbf485879b24bf2d09345cd3a37c8f4",
+      "extracted_text_chars": 902
+    },
+    {
+      "source_id": "QA026",
+      "title": "QA026_会计司实施问答·金融工具准则_对于满足《企业会计准则第24号——套期会计》规定条件",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA026_会计司实施问答·金融工具准则_对于满足《企业会计准则第24号——套期会计》规定条件.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA026_会计司实施问答·金融工具准则_对于满足《企业会计准则第24号——套期会计》规定条件.pdf",
+        "25_会计准则与实施材料/B094_QA026_会计司实施问答·金融工具准则_对于满足《企业会计准则第24号——套期会计》规定条件.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c0a7a7f024fe282bcb774a78107da70dcae11d8d26d422cc698c38edef7c1bfa",
+      "pdf_bytes": 109797,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA026.txt",
+      "pdf_copy_path": "references/pdf/QA026.pdf",
+      "extracted_text_sha256": "c9b61164063b248720fbcc68fd516f0847992f0fd30946e383e258a903478105",
+      "extracted_text_chars": 1075
+    },
+    {
+      "source_id": "QA027",
+      "title": "QA027_会计司实施问答·金融工具准则_企业通过签订衍生金融工具对日常销售或采购非金融项目的",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA027_会计司实施问答·金融工具准则_企业通过签订衍生金融工具对日常销售或采购非金融项目的.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA027_会计司实施问答·金融工具准则_企业通过签订衍生金融工具对日常销售或采购非金融项目的.pdf",
+        "25_会计准则与实施材料/B095_QA027_会计司实施问答·金融工具准则_企业通过签订衍生金融工具对日常销售或采购非金融项目的.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "cf2fc96479fc08da87fcf4ad9c6cbcff898fa99ab69b1547759e5b6738bed614",
+      "pdf_bytes": 119957,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA027.txt",
+      "pdf_copy_path": "references/pdf/QA027.pdf",
+      "extracted_text_sha256": "f3646595cbdfb55298cfb72795287754015b562c6f1d815e3d4ff8c22e74f7a3",
+      "extracted_text_chars": 1553
+    },
+    {
+      "source_id": "QA028",
+      "title": "QA028_会计司实施问答·金融工具准则_商业银行应当如何确定一项主营业务活动中发生的支出属于",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA028_会计司实施问答·金融工具准则_商业银行应当如何确定一项主营业务活动中发生的支出属于.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA028_会计司实施问答·金融工具准则_商业银行应当如何确定一项主营业务活动中发生的支出属于.pdf",
+        "25_会计准则与实施材料/B096_QA028_会计司实施问答·金融工具准则_商业银行应当如何确定一项主营业务活动中发生的支出属于.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "b1df1181dd75f4fbc5f1440495fef0ea121b8e70cc2426573cf366052c3bd169",
+      "pdf_bytes": 135723,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/QA028.txt",
+      "pdf_copy_path": "references/pdf/QA028.pdf",
+      "extracted_text_sha256": "655a8d19eefb73e2e5d844b5f046319ad43660b7ce3d61d1820df5e271fb3a2f",
+      "extracted_text_chars": 1718
+    },
+    {
+      "source_id": "QA029",
+      "title": "QA029_会计司实施问答·金融工具准则_企业应当如何判定权益工具投资为“非交易性”，从而符合",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA029_会计司实施问答·金融工具准则_企业应当如何判定权益工具投资为“非交易性”，从而符合.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA029_会计司实施问答·金融工具准则_企业应当如何判定权益工具投资为“非交易性”，从而符合.pdf",
+        "25_会计准则与实施材料/B097_QA029_会计司实施问答·金融工具准则_企业应当如何判定权益工具投资为“非交易性”，从而符合.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "cfceae0b46f6389d8e107c593d36063494dd5e5d1a625e22581cd6d5dbcf199f",
+      "pdf_bytes": 116842,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA029.txt",
+      "pdf_copy_path": "references/pdf/QA029.pdf",
+      "extracted_text_sha256": "f1e4087e7b68cda9f65ffdc5daab34681cc845db4d91bf988b813c3f6380f7e9",
+      "extracted_text_chars": 1121
+    },
+    {
+      "source_id": "QA030",
+      "title": "QA030_会计司实施问答·金融工具准则_某企业执行2017年修订发布的企业会计准则第22、2",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA030_会计司实施问答·金融工具准则_某企业执行2017年修订发布的企业会计准则第22、2.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA030_会计司实施问答·金融工具准则_某企业执行2017年修订发布的企业会计准则第22、2.pdf",
+        "25_会计准则与实施材料/B098_QA030_会计司实施问答·金融工具准则_某企业执行2017年修订发布的企业会计准则第22、2.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c3e6c7e338e9f26056dc909e9d7876e5c01234059f2593c3bcca55e34d33887e",
+      "pdf_bytes": 97099,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA030.txt",
+      "pdf_copy_path": "references/pdf/QA030.pdf",
+      "extracted_text_sha256": "f540ab284fd04cfcb0f1ae448f625ec55f4ebde7c70ecfd5cde27e90ad614bcd",
+      "extracted_text_chars": 1123
+    },
+    {
+      "source_id": "QA031",
+      "title": "QA031_会计司实施问答·金融工具准则_如果企业持有的金融资产以收取合同现金流量为目标，企业",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA031_会计司实施问答·金融工具准则_如果企业持有的金融资产以收取合同现金流量为目标，企业.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA031_会计司实施问答·金融工具准则_如果企业持有的金融资产以收取合同现金流量为目标，企业.pdf",
+        "25_会计准则与实施材料/B099_QA031_会计司实施问答·金融工具准则_如果企业持有的金融资产以收取合同现金流量为目标，企业.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "377e55eae31a78b953f9bb68a3be7f460a026c958dd0085a3842c4ee5d3b707b",
+      "pdf_bytes": 110233,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA031.txt",
+      "pdf_copy_path": "references/pdf/QA031.pdf",
+      "extracted_text_sha256": "474df0763d22124554b42a019ff2b055b528c568cfe3480c6a2525edcfdbe49c",
+      "extracted_text_chars": 1207
+    },
+    {
+      "source_id": "QA032",
+      "title": "QA032_会计司实施问答·金融工具准则_在金融工具确认计量准则施行日，将可供出售金融资产分类",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA032_会计司实施问答·金融工具准则_在金融工具确认计量准则施行日，将可供出售金融资产分类.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA032_会计司实施问答·金融工具准则_在金融工具确认计量准则施行日，将可供出售金融资产分类.pdf",
+        "25_会计准则与实施材料/B100_QA032_会计司实施问答·金融工具准则_在金融工具确认计量准则施行日，将可供出售金融资产分类.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "8d7f0848d09198cadfeb0744107628d4195ed62a8b4972c7cbc13443bc84e2cd",
+      "pdf_bytes": 97173,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA032.txt",
+      "pdf_copy_path": "references/pdf/QA032.pdf",
+      "extracted_text_sha256": "bd135db69082d63846e4f1aa878b55c0eed243eee332533ad3272fc58a5bd375",
+      "extracted_text_chars": 814
+    },
+    {
+      "source_id": "QA033",
+      "title": "QA033_会计司实施问答·金融工具准则_银行收回已核销的贷款，应当如何进行会计处理？",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA033_会计司实施问答·金融工具准则_银行收回已核销的贷款，应当如何进行会计处理？.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA033_会计司实施问答·金融工具准则_银行收回已核销的贷款，应当如何进行会计处理？.pdf",
+        "25_会计准则与实施材料/B101_QA033_会计司实施问答·金融工具准则_银行收回已核销的贷款，应当如何进行会计处理？.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "3461dfc274b94f6f43aa1dcddbfe139a1c5931dd2abf4cd487309d43612aab8c",
+      "pdf_bytes": 79307,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA033.txt",
+      "pdf_copy_path": "references/pdf/QA033.pdf",
+      "extracted_text_sha256": "eb51694002988b2e0d64dacb6cb33fede0a6ef0063e4f625ad6edecef5886d4f",
+      "extracted_text_chars": 688
+    },
+    {
+      "source_id": "QA034",
+      "title": "QA034_会计司实施问答·金融工具准则_银行从事信用卡分期还款业务按实际利率法计算的利息收入",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA034_会计司实施问答·金融工具准则_银行从事信用卡分期还款业务按实际利率法计算的利息收入.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA034_会计司实施问答·金融工具准则_银行从事信用卡分期还款业务按实际利率法计算的利息收入.pdf",
+        "25_会计准则与实施材料/B102_QA034_会计司实施问答·金融工具准则_银行从事信用卡分期还款业务按实际利率法计算的利息收入.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "b91e5ecd3dc45f1f281951cd5ec0299701ec8ca9a7bd6cbe4ad854e947c40967",
+      "pdf_bytes": 107297,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA034.txt",
+      "pdf_copy_path": "references/pdf/QA034.pdf",
+      "extracted_text_sha256": "9a1ab9e34ccac820a908aaf4ddd01716e85f84f05fcf763414f45c12c076075e",
+      "extracted_text_chars": 1030
+    },
+    {
+      "source_id": "QA035",
+      "title": "QA035_会计司实施问答·金融工具准则_企业对向其他企业提供的委托贷款、财务担保或向集团关联",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA035_会计司实施问答·金融工具准则_企业对向其他企业提供的委托贷款、财务担保或向集团关联.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA035_会计司实施问答·金融工具准则_企业对向其他企业提供的委托贷款、财务担保或向集团关联.pdf",
+        "25_会计准则与实施材料/B103_QA035_会计司实施问答·金融工具准则_企业对向其他企业提供的委托贷款、财务担保或向集团关联.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "0ed3c658a8c6501ae71c6eabe1dc1b390ffd5a8ef073e691a5b215c16250ad89",
+      "pdf_bytes": 111295,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA035.txt",
+      "pdf_copy_path": "references/pdf/QA035.pdf",
+      "extracted_text_sha256": "f4ef6df51d264bbeae6f11d11e4f9294f8579895f1fb092f001cbcd554df4404",
+      "extracted_text_chars": 1181
+    },
+    {
+      "source_id": "QA036",
+      "title": "QA036_会计司实施问答·金融工具准则_企业应当如何对持有的结构性存款进行会计处理，假设该结",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA036_会计司实施问答·金融工具准则_企业应当如何对持有的结构性存款进行会计处理，假设该结.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA036_会计司实施问答·金融工具准则_企业应当如何对持有的结构性存款进行会计处理，假设该结.pdf",
+        "25_会计准则与实施材料/B104_QA036_会计司实施问答·金融工具准则_企业应当如何对持有的结构性存款进行会计处理，假设该结.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "0339b821e7df139505069c551311caff4dd72b3e923336350f398af0d0635712",
+      "pdf_bytes": 114768,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA036.txt",
+      "pdf_copy_path": "references/pdf/QA036.pdf",
+      "extracted_text_sha256": "996640c3b9c74bc8f17d586eb3339105f49ea30296492f386fb58d39eeda3450",
+      "extracted_text_chars": 1079
+    },
+    {
+      "source_id": "QA037",
+      "title": "QA037_会计司实施问答·金融工具准则_对于按照金融工具列报准则第三章分类为权益工具的特殊金",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA037_会计司实施问答·金融工具准则_对于按照金融工具列报准则第三章分类为权益工具的特殊金.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA037_会计司实施问答·金融工具准则_对于按照金融工具列报准则第三章分类为权益工具的特殊金.pdf",
+        "25_会计准则与实施材料/B105_QA037_会计司实施问答·金融工具准则_对于按照金融工具列报准则第三章分类为权益工具的特殊金.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "73143cbfda98481317854eae914e09026b452ca19e3805c429860da6f15ae245",
+      "pdf_bytes": 106790,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA037.txt",
+      "pdf_copy_path": "references/pdf/QA037.pdf",
+      "extracted_text_sha256": "1c200bc18aa5629a26dbb65e63931e70170b921e2db6b4a46aa03cef5b5d1656",
+      "extracted_text_chars": 944
+    },
+    {
+      "source_id": "QA038",
+      "title": "QA038_会计司实施问答·金融工具准则_新冠肺炎疫情下，企业在应用预期信用损失法时应重点关注",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA038_会计司实施问答·金融工具准则_新冠肺炎疫情下，企业在应用预期信用损失法时应重点关注.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA038_会计司实施问答·金融工具准则_新冠肺炎疫情下，企业在应用预期信用损失法时应重点关注.pdf",
+        "25_会计准则与实施材料/B106_QA038_会计司实施问答·金融工具准则_新冠肺炎疫情下，企业在应用预期信用损失法时应重点关注.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c027c580638208376d2944edcf1ca6508a95e4cf6e95eeb8e95ec883b6ba1804",
+      "pdf_bytes": 132456,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA038.txt",
+      "pdf_copy_path": "references/pdf/QA038.pdf",
+      "extracted_text_sha256": "777329a615e7c1aded9c69342bd72f394c34e8a47405ecc592fa3835d3ed0a52",
+      "extracted_text_chars": 1423
+    },
+    {
+      "source_id": "QA039",
+      "title": "QA039_会计司实施问答·金融工具准则_企业按照管理金融资产的业务模式对相关金融资产进行分类",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA039_会计司实施问答·金融工具准则_企业按照管理金融资产的业务模式对相关金融资产进行分类.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA039_会计司实施问答·金融工具准则_企业按照管理金融资产的业务模式对相关金融资产进行分类.pdf",
+        "25_会计准则与实施材料/B107_QA039_会计司实施问答·金融工具准则_企业按照管理金融资产的业务模式对相关金融资产进行分类.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "645720a8d43f7f63f8b5f367aa08dbd90481ac20444d672622992c15eaff4134",
+      "pdf_bytes": 98191,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA039.txt",
+      "pdf_copy_path": "references/pdf/QA039.pdf",
+      "extracted_text_sha256": "338d7e6f0543e7da3adb9146acae846bb7ceeebfd92b2c1206c9c1b5b2c924d2",
+      "extracted_text_chars": 807
+    },
+    {
+      "source_id": "QA040",
+      "title": "QA040_会计司实施问答·金融工具准则_企业在非同一控制下的企业合并中确认的或有对价构成金融",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA040_会计司实施问答·金融工具准则_企业在非同一控制下的企业合并中确认的或有对价构成金融.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA040_会计司实施问答·金融工具准则_企业在非同一控制下的企业合并中确认的或有对价构成金融.pdf",
+        "25_会计准则与实施材料/B108_QA040_会计司实施问答·金融工具准则_企业在非同一控制下的企业合并中确认的或有对价构成金融.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "6a06eb22c6831e57b7bdfde5bcc0c4a80e750c5bc29fcd31048e7eb43aa4017f",
+      "pdf_bytes": 79680,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA040.txt",
+      "pdf_copy_path": "references/pdf/QA040.pdf",
+      "extracted_text_sha256": "813c9b1cdba3de3143b6aec528c29aef44d603cb096d950e07384ae62ed548b6",
+      "extracted_text_chars": 686
+    },
+    {
+      "source_id": "QA041",
+      "title": "QA041_会计司实施问答·金融工具准则_企业从事的融资担保、信用证、信用保险等“财务担保合同",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA041_会计司实施问答·金融工具准则_企业从事的融资担保、信用证、信用保险等“财务担保合同.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA041_会计司实施问答·金融工具准则_企业从事的融资担保、信用证、信用保险等“财务担保合同.pdf",
+        "25_会计准则与实施材料/B109_QA041_会计司实施问答·金融工具准则_企业从事的融资担保、信用证、信用保险等“财务担保合同.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "4e378e6ea71bdacec6d335b1030164e6e65f9172284e7ba7071a0db068187bd8",
+      "pdf_bytes": 94285,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA041.txt",
+      "pdf_copy_path": "references/pdf/QA041.pdf",
+      "extracted_text_sha256": "8922966a9eb6bcf02431ee8f7aa5b2a5e44345e58eeb66bd67bc7cfd6c6206dd",
+      "extracted_text_chars": 893
+    },
+    {
+      "source_id": "QA042",
+      "title": "QA042_会计司实施问答·金融工具准则_在金融工具确认计量准则施行日，将原分类为可供出售金融",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA042_会计司实施问答·金融工具准则_在金融工具确认计量准则施行日，将原分类为可供出售金融.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA042_会计司实施问答·金融工具准则_在金融工具确认计量准则施行日，将原分类为可供出售金融.pdf",
+        "25_会计准则与实施材料/B110_QA042_会计司实施问答·金融工具准则_在金融工具确认计量准则施行日，将原分类为可供出售金融.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "31e4247c8fbd6976a723cb60a28a1c1f28a16c8c596a4cb11b0b9ad7f48cf78d",
+      "pdf_bytes": 104401,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA042.txt",
+      "pdf_copy_path": "references/pdf/QA042.pdf",
+      "extracted_text_sha256": "2ece359261559089c21a03a9f765346c087749e147bac6444920ab9663591eaf",
+      "extracted_text_chars": 1176
+    },
+    {
+      "source_id": "QA043",
+      "title": "QA043_会计司实施问答·金融工具准则_企业支付永续债利息的会计处理是否与税务处理一致？",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA043_会计司实施问答·金融工具准则_企业支付永续债利息的会计处理是否与税务处理一致？.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA043_会计司实施问答·金融工具准则_企业支付永续债利息的会计处理是否与税务处理一致？.pdf",
+        "25_会计准则与实施材料/B111_QA043_会计司实施问答·金融工具准则_企业支付永续债利息的会计处理是否与税务处理一致？.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "78801bc700b0ab4a9bbbe1b1a3c5789fd08aa9d6cf74717fefba0beecac0f174",
+      "pdf_bytes": 111658,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA043.txt",
+      "pdf_copy_path": "references/pdf/QA043.pdf",
+      "extracted_text_sha256": "cff38b0962be94c5f7eb8708032ea83204c99a91c477bd836e5092f420ebf552",
+      "extracted_text_chars": 1074
+    },
+    {
+      "source_id": "QA044",
+      "title": "QA044_会计司实施问答·金融工具准则_企业应当如何判断某项投资的会计处理适用《企业会计准则",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA044_会计司实施问答·金融工具准则_企业应当如何判断某项投资的会计处理适用《企业会计准则.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA044_会计司实施问答·金融工具准则_企业应当如何判断某项投资的会计处理适用《企业会计准则.pdf",
+        "25_会计准则与实施材料/B112_QA044_会计司实施问答·金融工具准则_企业应当如何判断某项投资的会计处理适用《企业会计准则.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "439a9798ea6630a7442b0e8844643d6983faf009e6022d4ec3b85e1bd41b4324",
+      "pdf_bytes": 99851,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA044.txt",
+      "pdf_copy_path": "references/pdf/QA044.pdf",
+      "extracted_text_sha256": "a4c60f227f308165ff5b8dc5164ff55a5012f425d673993e06c3c0f7be226483",
+      "extracted_text_chars": 842
+    },
+    {
+      "source_id": "QA045",
+      "title": "QA045_会计司实施问答·金融工具准则_某企业于资产负债表日对金融资产计提损失准备，资产负债",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA045_会计司实施问答·金融工具准则_某企业于资产负债表日对金融资产计提损失准备，资产负债.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA045_会计司实施问答·金融工具准则_某企业于资产负债表日对金融资产计提损失准备，资产负债.pdf",
+        "25_会计准则与实施材料/B113_QA045_会计司实施问答·金融工具准则_某企业于资产负债表日对金融资产计提损失准备，资产负债.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "e031b1b09ccded036c39dd02fea2892e8d806f8f30029c04c85302070f96d404",
+      "pdf_bytes": 100667,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA045.txt",
+      "pdf_copy_path": "references/pdf/QA045.pdf",
+      "extracted_text_sha256": "bb3d8d562a076c4972012b7c89e9a248db2dc8364e6020b664f988c88b2ab339",
+      "extracted_text_chars": 928
+    },
+    {
+      "source_id": "QA046",
+      "title": "QA046_会计司实施问答·金融工具准则_如果企业判断以“贷款基准利率”为基础确定利息的金融资",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA046_会计司实施问答·金融工具准则_如果企业判断以“贷款基准利率”为基础确定利息的金融资.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA046_会计司实施问答·金融工具准则_如果企业判断以“贷款基准利率”为基础确定利息的金融资.pdf",
+        "25_会计准则与实施材料/B114_QA046_会计司实施问答·金融工具准则_如果企业判断以“贷款基准利率”为基础确定利息的金融资.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "076a1bd3ad94cedb51d8d90d2d033473a192a7ac1e1fbd1d818b563ea2c1b8b4",
+      "pdf_bytes": 98243,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA046.txt",
+      "pdf_copy_path": "references/pdf/QA046.pdf",
+      "extracted_text_sha256": "e4a8669f7ee83d981a09e95383e679482b1f3e1dc2ffab6eee978700227e87d7",
+      "extracted_text_chars": 833
+    },
+    {
+      "source_id": "QA047",
+      "title": "QA047_会计司实施问答·金融工具准则_封闭式基金、理财产品、信托计划等寿命固定或可确定的结",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA047_会计司实施问答·金融工具准则_封闭式基金、理财产品、信托计划等寿命固定或可确定的结.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA047_会计司实施问答·金融工具准则_封闭式基金、理财产品、信托计划等寿命固定或可确定的结.pdf",
+        "25_会计准则与实施材料/B115_QA047_会计司实施问答·金融工具准则_封闭式基金、理财产品、信托计划等寿命固定或可确定的结.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "94f2a808e578506463a6f0b24122a8fd7701d07bf19ba7deafa5b7cf92260046",
+      "pdf_bytes": 103282,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA047.txt",
+      "pdf_copy_path": "references/pdf/QA047.pdf",
+      "extracted_text_sha256": "52a528708c44342a22b554335dc7f54840a23a0a50f30f1ff2abb7a9c9671a69",
+      "extracted_text_chars": 829
+    },
+    {
+      "source_id": "QA048",
+      "title": "QA048_会计司实施问答·金融工具准则_某企业执行《企业会计准则第22号——金融工具确认和计",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA048_会计司实施问答·金融工具准则_某企业执行《企业会计准则第22号——金融工具确认和计.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA048_会计司实施问答·金融工具准则_某企业执行《企业会计准则第22号——金融工具确认和计.pdf",
+        "25_会计准则与实施材料/B116_QA048_会计司实施问答·金融工具准则_某企业执行《企业会计准则第22号——金融工具确认和计.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "4e69260f91931833c05769c3fe6a523db8606dfdf1f39bb6d29a634470e0e2a1",
+      "pdf_bytes": 94530,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA048.txt",
+      "pdf_copy_path": "references/pdf/QA048.pdf",
+      "extracted_text_sha256": "aeb9502e78a397a589cea38375a5fd062dddfe6c96be661deae0220dabc9294e",
+      "extracted_text_chars": 947
+    },
+    {
+      "source_id": "QA049",
+      "title": "QA049_会计司实施问答·会计政策、会计估计变更和差错更正准则_甲公司2×24年度按照法律法规要求应补缴2×23年度",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA049_会计司实施问答·会计政策、会计估计变更和差错更正准则_甲公司2×24年度按照法律法规要求应补缴2×23年度.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA049_会计司实施问答·会计政策、会计估计变更和差错更正准则_甲公司2×24年度按照法律法规要求应补缴2×23年度.pdf",
+        "25_会计准则与实施材料/B117_QA049_会计司实施问答·会计政策、会计估计变更和差错更正准则_甲公司2×24年度按照法律法规要求应补缴2×23年度.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c4c2016d0bd0722a881f723f744462741739984cbfc67cb463dd4ffdcb1c11a0",
+      "pdf_bytes": 111807,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA049.txt",
+      "pdf_copy_path": "references/pdf/QA049.pdf",
+      "extracted_text_sha256": "f197781f44a1ea96c00f8c6c81571ff4e8a2bb91a9f858d72f82a558e3a08d26",
+      "extracted_text_chars": 1300
+    },
+    {
+      "source_id": "QA050",
+      "title": "QA050_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，应当如",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA050_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，应当如.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA050_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，应当如.pdf",
+        "25_会计准则与实施材料/B118_QA050_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，应当如.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c36fc678995d4dd58984222a237323c7d79504d33960796c85d9ebb92672afde",
+      "pdf_bytes": 99290,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA050.txt",
+      "pdf_copy_path": "references/pdf/QA050.pdf",
+      "extracted_text_sha256": "50abbf0add8b6986613f4046a005fa172d2d15a655bae63d1d23b0e45f3fb85e",
+      "extracted_text_chars": 958
+    },
+    {
+      "source_id": "QA051",
+      "title": "QA051_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，应当如",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA051_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，应当如.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA051_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，应当如.pdf",
+        "25_会计准则与实施材料/B119_QA051_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，应当如.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "9aba6967ac16029ff5892d1cc65b69f3bce84613bdfc9c27b8f3e4f58a93e03a",
+      "pdf_bytes": 111351,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA051.txt",
+      "pdf_copy_path": "references/pdf/QA051.pdf",
+      "extracted_text_sha256": "2dcaa5617630aad3d163b1fe6fe08dd917a6207c72ce919763c7005c4f19c6a1",
+      "extracted_text_chars": 1173
+    },
+    {
+      "source_id": "QA052",
+      "title": "QA052_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，应当如",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA052_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，应当如.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA052_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，应当如.pdf",
+        "25_会计准则与实施材料/B120_QA052_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，应当如.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "fbbf4869b69a7b22938a78e39155eba01cd4cd0acff3a40f2e48ff2db300c36f",
+      "pdf_bytes": 113671,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA052.txt",
+      "pdf_copy_path": "references/pdf/QA052.pdf",
+      "extracted_text_sha256": "645c763e384217182d09ac72474d35fde32f982e62eaab59e98c3e302450e0d1",
+      "extracted_text_chars": 1234
+    },
+    {
+      "source_id": "QA053",
+      "title": "QA053_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，当PP",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA053_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，当PP.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA053_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，当PP.pdf",
+        "25_会计准则与实施材料/B121_QA053_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，当PP.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "ef0340fc61582968827e5d4a617ef2751d34d491fc28cb2b3c11f8e40dab788b",
+      "pdf_bytes": 98702,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA053.txt",
+      "pdf_copy_path": "references/pdf/QA053.pdf",
+      "extracted_text_sha256": "5a54b64d4a1a70e99e8c02e47d9642daef83282221417d88c59670fae93f962f",
+      "extracted_text_chars": 971
+    },
+    {
+      "source_id": "QA054",
+      "title": "QA054_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA054_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA054_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资.pdf",
+        "25_会计准则与实施材料/B122_QA054_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "8b9fd9b44297f760cfe4208abdd19555bbaab379bd7d2611700ea0c01976d801",
+      "pdf_bytes": 93223,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA054.txt",
+      "pdf_copy_path": "references/pdf/QA054.pdf",
+      "extracted_text_sha256": "2d0d78abb4ab244051911e9aa57a73a6f9c6b0ccf4acb6389ad87ac0cfdbe536",
+      "extracted_text_chars": 805
+    },
+    {
+      "source_id": "QA055",
+      "title": "QA055_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA055_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA055_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资.pdf",
+        "25_会计准则与实施材料/B123_QA055_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "197fc7b358040836503453bfd68ec4adcadc9065137d513576728469be3e647b",
+      "pdf_bytes": 96123,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA055.txt",
+      "pdf_copy_path": "references/pdf/QA055.pdf",
+      "extracted_text_sha256": "9ce02a72774b0b3a5d1bc41cbfadcb333b46cf5756e4f05c8212ce58ab76db3f",
+      "extracted_text_chars": 867
+    },
+    {
+      "source_id": "QA056",
+      "title": "QA056_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA056_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA056_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资.pdf",
+        "25_会计准则与实施材料/B124_QA056_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "3dc5c913236225029d52e8b2c69da439d59e78c9fd9b462d3888fdc41818d968",
+      "pdf_bytes": 93392,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA056.txt",
+      "pdf_copy_path": "references/pdf/QA056.pdf",
+      "extracted_text_sha256": "7649d94db5886dbec8396d0e3327bb9560a47d2644f9a9c1fa808adc9ff02345",
+      "extracted_text_chars": 793
+    },
+    {
+      "source_id": "QA057",
+      "title": "QA057_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，集团合",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA057_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，集团合.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA057_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，集团合.pdf",
+        "25_会计准则与实施材料/B125_QA057_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，集团合.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "38fb2de9695867533d95da685acc118e4d3320ab95474bfa1718fc4245713f81",
+      "pdf_bytes": 104035,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA057.txt",
+      "pdf_copy_path": "references/pdf/QA057.pdf",
+      "extracted_text_sha256": "96c4aef18815ae7a17faa0e46d9c24561fe2df6f7fe6496829521272489a1707",
+      "extracted_text_chars": 1030
+    },
+    {
+      "source_id": "QA058",
+      "title": "QA058_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，如何确",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA058_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，如何确.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA058_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，如何确.pdf",
+        "25_会计准则与实施材料/B126_QA058_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，如何确.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "6f822b371fbcbac8e3ecf7d1f89e8960e669dd46faee2458a9d9e3c39d6e60c6",
+      "pdf_bytes": 97439,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA058.txt",
+      "pdf_copy_path": "references/pdf/QA058.pdf",
+      "extracted_text_sha256": "3379f83a205539256ae9cabf7d3697ba2725ec3b534ff9f6b8e6e74b0a05135b",
+      "extracted_text_chars": 746
+    },
+    {
+      "source_id": "QA059",
+      "title": "QA059_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA059_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA059_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资.pdf",
+        "25_会计准则与实施材料/B127_QA059_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，社会资.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "763db5d1ee9363503313ef7f5667b9b15c043dc4449bdf2db6b04a83a8cc834f",
+      "pdf_bytes": 93891,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA059.txt",
+      "pdf_copy_path": "references/pdf/QA059.pdf",
+      "extracted_text_sha256": "96f80e7305ec8497927e7a978ce6995ff23b6ad2bebfe5a2090d06aa6d0ebd2e",
+      "extracted_text_chars": 792
+    },
+    {
+      "source_id": "QA060",
+      "title": "QA060_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，如何对",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA060_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，如何对.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA060_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，如何对.pdf",
+        "25_会计准则与实施材料/B128_QA060_会计司实施问答·PPP项目会计处理_社会资本方执行《企业会计准则解释第14号》时，如何对.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "cfd3b74f77d43bb61ca7453defbc165f53bb72c21339e343bfcb2651c45dc7a7",
+      "pdf_bytes": 107462,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA060.txt",
+      "pdf_copy_path": "references/pdf/QA060.pdf",
+      "extracted_text_sha256": "4a13fd71b952d48c23b105c6929755313d49a982c6480965ac02bce784ed0695",
+      "extracted_text_chars": 1153
+    },
+    {
+      "source_id": "QA061",
+      "title": "QA061_会计司实施问答·其他相关问答_《中华人民共和国增值税法》（以下简称增值税法）202",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA061_会计司实施问答·其他相关问答_《中华人民共和国增值税法》（以下简称增值税法）202.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA061_会计司实施问答·其他相关问答_《中华人民共和国增值税法》（以下简称增值税法）202.pdf",
+        "25_会计准则与实施材料/B129_QA061_会计司实施问答·其他相关问答_《中华人民共和国增值税法》（以下简称增值税法）202.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "a45d32490a0577617a6b49b2db2e89827eda5decf4fe695afa46e20c8aefe76a",
+      "pdf_bytes": 93781,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA061.txt",
+      "pdf_copy_path": "references/pdf/QA061.pdf",
+      "extracted_text_sha256": "2ff58307ab81fa87918456e6701a4863a949687573be3686d653f78baae34e0d",
+      "extracted_text_chars": 815
+    },
+    {
+      "source_id": "QA062",
+      "title": "QA062_会计司实施问答·其他相关问答_企业缴纳残疾人就业保障金应当计入哪个会计科目？",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA062_会计司实施问答·其他相关问答_企业缴纳残疾人就业保障金应当计入哪个会计科目？.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA062_会计司实施问答·其他相关问答_企业缴纳残疾人就业保障金应当计入哪个会计科目？.pdf",
+        "25_会计准则与实施材料/B130_QA062_会计司实施问答·其他相关问答_企业缴纳残疾人就业保障金应当计入哪个会计科目？.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "677dc1c4c506790685db525cd4fc0456665fd1e0d8a71edd0e94f7c04d4be8c1",
+      "pdf_bytes": 90577,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA062.txt",
+      "pdf_copy_path": "references/pdf/QA062.pdf",
+      "extracted_text_sha256": "3db7e306cf376726a3ed433aca2a53c5c66e922f2dc1acb30c8f8d8b1f21190a",
+      "extracted_text_chars": 698
+    },
+    {
+      "source_id": "QA063",
+      "title": "QA063_会计司实施问答·其他相关问答_小微企业达到增值税制度规定的免征增值税条件时，应当如",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA063_会计司实施问答·其他相关问答_小微企业达到增值税制度规定的免征增值税条件时，应当如.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA063_会计司实施问答·其他相关问答_小微企业达到增值税制度规定的免征增值税条件时，应当如.pdf",
+        "25_会计准则与实施材料/B131_QA063_会计司实施问答·其他相关问答_小微企业达到增值税制度规定的免征增值税条件时，应当如.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "f68da5056b46a57ea2409448ced15f639e76bd0ed09ba172bf5663e54ebd4cf9",
+      "pdf_bytes": 76032,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA063.txt",
+      "pdf_copy_path": "references/pdf/QA063.pdf",
+      "extracted_text_sha256": "d97ec1146f7a47d90d402c8096bae5e9aeaf28adce97a14906bf8f89954c1137",
+      "extracted_text_chars": 638
+    },
+    {
+      "source_id": "QA064",
+      "title": "QA064_会计司实施问答·其他相关问答_企业对于当期直接减免的增值税，应当如何进行会计处理？",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA064_会计司实施问答·其他相关问答_企业对于当期直接减免的增值税，应当如何进行会计处理？.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA064_会计司实施问答·其他相关问答_企业对于当期直接减免的增值税，应当如何进行会计处理？.pdf",
+        "25_会计准则与实施材料/B132_QA064_会计司实施问答·其他相关问答_企业对于当期直接减免的增值税，应当如何进行会计处理？.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "1bcfd4635b1665ba04d024cc7ce1e3ee1d7262a028478a9c78b565a901a31597",
+      "pdf_bytes": 74987,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA064.txt",
+      "pdf_copy_path": "references/pdf/QA064.pdf",
+      "extracted_text_sha256": "a77aff26ccc78fe402ecbe1dacd4cfdafe3cb94943e4054daf256535b9acc478",
+      "extracted_text_chars": 637
+    },
+    {
+      "source_id": "QA065",
+      "title": "QA065_会计司实施问答·企业合并准则_非同一控制下企业合并中涉及的补偿性资产与或有对价之间",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA065_会计司实施问答·企业合并准则_非同一控制下企业合并中涉及的补偿性资产与或有对价之间.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA065_会计司实施问答·企业合并准则_非同一控制下企业合并中涉及的补偿性资产与或有对价之间.pdf",
+        "25_会计准则与实施材料/B133_QA065_会计司实施问答·企业合并准则_非同一控制下企业合并中涉及的补偿性资产与或有对价之间.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "937734e1f17a41c44d17aa474125595edf249347581720bef67db7f463ad0dfb",
+      "pdf_bytes": 114474,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA065.txt",
+      "pdf_copy_path": "references/pdf/QA065.pdf",
+      "extracted_text_sha256": "6352a43cd0647da097fd2984feab1ce679dfd58a38ea754c3fb723906ff7e970",
+      "extracted_text_chars": 1171
+    },
+    {
+      "source_id": "QA066",
+      "title": "QA066_会计司实施问答·企业合并准则_某集团公司新设一家子公司，将现有其他子公司或业务注入",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA066_会计司实施问答·企业合并准则_某集团公司新设一家子公司，将现有其他子公司或业务注入.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA066_会计司实施问答·企业合并准则_某集团公司新设一家子公司，将现有其他子公司或业务注入.pdf",
+        "25_会计准则与实施材料/B134_QA066_会计司实施问答·企业合并准则_某集团公司新设一家子公司，将现有其他子公司或业务注入.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "0d3a91cb9d01d0112d936ecc57ed6a5601e927cad676020b29da6f259e29ed1f",
+      "pdf_bytes": 99548,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA066.txt",
+      "pdf_copy_path": "references/pdf/QA066.pdf",
+      "extracted_text_sha256": "893eb769d2083f25c5be0e6f76f8d04abe4f9ee88cb41db6af44a00f94dbe414",
+      "extracted_text_chars": 940
+    },
+    {
+      "source_id": "QA067",
+      "title": "QA067_会计司实施问答·首次执行企业会计准则_对于首次执行企业会计准则的企业，在首次执行日应当如何",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA067_会计司实施问答·首次执行企业会计准则_对于首次执行企业会计准则的企业，在首次执行日应当如何.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA067_会计司实施问答·首次执行企业会计准则_对于首次执行企业会计准则的企业，在首次执行日应当如何.pdf",
+        "25_会计准则与实施材料/B135_QA067_会计司实施问答·首次执行企业会计准则_对于首次执行企业会计准则的企业，在首次执行日应当如何.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "2eef10015b969dafecd564a2222e63a05264164f6102b5bad291e64c1d5cb974",
+      "pdf_bytes": 92153,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA067.txt",
+      "pdf_copy_path": "references/pdf/QA067.pdf",
+      "extracted_text_sha256": "880df3053cc8b0b952923fb49374ebaeb5af3a73fb0afa8b9fc16cc07b21c55c",
+      "extracted_text_chars": 887
+    },
+    {
+      "source_id": "QA068",
+      "title": "QA068_会计司实施问答·数据资源会计处理_对于企业内部数据资源研究开发项目的支出，应当如何对其",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA068_会计司实施问答·数据资源会计处理_对于企业内部数据资源研究开发项目的支出，应当如何对其.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA068_会计司实施问答·数据资源会计处理_对于企业内部数据资源研究开发项目的支出，应当如何对其.pdf",
+        "25_会计准则与实施材料/B136_QA068_会计司实施问答·数据资源会计处理_对于企业内部数据资源研究开发项目的支出，应当如何对其.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "ec53de16ee7383e31d0d65716dd6e1af0268ba01c46255d2aa825a508cb690ba",
+      "pdf_bytes": 154156,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/QA068.txt",
+      "pdf_copy_path": "references/pdf/QA068.pdf",
+      "extracted_text_sha256": "3fbef0f9705db8870b7dcc3ec7f68d2e43c22f732cc2328df56386e4edb9390e",
+      "extracted_text_chars": 2885
+    },
+    {
+      "source_id": "QA069",
+      "title": "QA069_会计司实施问答·收入准则_企业为了履行收入合同而从事的运输活动，如果该运输活动",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA069_会计司实施问答·收入准则_企业为了履行收入合同而从事的运输活动，如果该运输活动.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA069_会计司实施问答·收入准则_企业为了履行收入合同而从事的运输活动，如果该运输活动.pdf",
+        "25_会计准则与实施材料/B137_QA069_会计司实施问答·收入准则_企业为了履行收入合同而从事的运输活动，如果该运输活动.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "d3c47ec0fc9aedca23afa61bbb5a46ae68630a438f8a5bc8ed68896c70af9c16",
+      "pdf_bytes": 96991,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA069.txt",
+      "pdf_copy_path": "references/pdf/QA069.pdf",
+      "extracted_text_sha256": "e0a3afd22b8b7fb2347dab271e86fda5dabef117a007195a49ef900413a287db",
+      "extracted_text_chars": 802
+    },
+    {
+      "source_id": "QA070",
+      "title": "QA070_会计司实施问答·收入准则_已执行《企业会计准则第22号——金融工具确认和计量》",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA070_会计司实施问答·收入准则_已执行《企业会计准则第22号——金融工具确认和计量》.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA070_会计司实施问答·收入准则_已执行《企业会计准则第22号——金融工具确认和计量》.pdf",
+        "25_会计准则与实施材料/B138_QA070_会计司实施问答·收入准则_已执行《企业会计准则第22号——金融工具确认和计量》.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "b2b19eae54b1f75bd25e2feb27727cc3e7c8121d7f77e37d5af0dab43f5072df",
+      "pdf_bytes": 98583,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA070.txt",
+      "pdf_copy_path": "references/pdf/QA070.pdf",
+      "extracted_text_sha256": "9607e8a431b9b4dc4bf56d77b923f37ed2aa9e43d893c2a0f96441b30487d95b",
+      "extracted_text_chars": 876
+    },
+    {
+      "source_id": "QA071",
+      "title": "QA071_会计司实施问答·收入准则_合同资产发生减值的，应当计入哪个会计科目？",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA071_会计司实施问答·收入准则_合同资产发生减值的，应当计入哪个会计科目？.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA071_会计司实施问答·收入准则_合同资产发生减值的，应当计入哪个会计科目？.pdf",
+        "25_会计准则与实施材料/B139_QA071_会计司实施问答·收入准则_合同资产发生减值的，应当计入哪个会计科目？.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "048e7e8a3b970836967bf9f71d8c37fdd6c70fa36b7716210d281f8d29367253",
+      "pdf_bytes": 77645,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA071.txt",
+      "pdf_copy_path": "references/pdf/QA071.pdf",
+      "extracted_text_sha256": "eaaa2c7047cbf85e7639de7cc7089b3d80d3acb6e75fdaf7e667e79a20b8a80e",
+      "extracted_text_chars": 694
+    },
+    {
+      "source_id": "QA072",
+      "title": "QA072_会计司实施问答·收入准则_企业在执行《企业会计准则第14号——收入》（财会〔2",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA072_会计司实施问答·收入准则_企业在执行《企业会计准则第14号——收入》（财会〔2.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA072_会计司实施问答·收入准则_企业在执行《企业会计准则第14号——收入》（财会〔2.pdf",
+        "25_会计准则与实施材料/B140_QA072_会计司实施问答·收入准则_企业在执行《企业会计准则第14号——收入》（财会〔2.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "e2c7c759b157428c47bfc01477740c11fa6dabc0c86aca2725fa777b080d1090",
+      "pdf_bytes": 93765,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA072.txt",
+      "pdf_copy_path": "references/pdf/QA072.pdf",
+      "extracted_text_sha256": "b8eee944e04ec6a7a8000e04a48699d77638166adbbcf2344c1b601a9947c538",
+      "extracted_text_chars": 828
+    },
+    {
+      "source_id": "QA073",
+      "title": "QA073_会计司实施问答·收入准则_企业在执行《企业会计准则第14号——收入》（财会〔2",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA073_会计司实施问答·收入准则_企业在执行《企业会计准则第14号——收入》（财会〔2.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA073_会计司实施问答·收入准则_企业在执行《企业会计准则第14号——收入》（财会〔2.pdf",
+        "25_会计准则与实施材料/B141_QA073_会计司实施问答·收入准则_企业在执行《企业会计准则第14号——收入》（财会〔2.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "3d07b873a899b7f3ec3f3ad12882ffd88ce6013b32882d386ffd71327ed930ee",
+      "pdf_bytes": 74301,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA073.txt",
+      "pdf_copy_path": "references/pdf/QA073.pdf",
+      "extracted_text_sha256": "0379814086cc2db5547e4b8d7df38997fda4768ef1e2791d3e7d7f5c212c870b",
+      "extracted_text_chars": 656
+    },
+    {
+      "source_id": "QA074",
+      "title": "QA074_会计司实施问答·外币折算准则_根据《企业会计准则解释第20号》，当一种货币不可兑换",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA074_会计司实施问答·外币折算准则_根据《企业会计准则解释第20号》，当一种货币不可兑换.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA074_会计司实施问答·外币折算准则_根据《企业会计准则解释第20号》，当一种货币不可兑换.pdf",
+        "25_会计准则与实施材料/B142_QA074_会计司实施问答·外币折算准则_根据《企业会计准则解释第20号》，当一种货币不可兑换.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c4c37be57723b12da892a860fed0b8fcef87d3a5bf9b2195a1a65b89a0de32fa",
+      "pdf_bytes": 103152,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA074.txt",
+      "pdf_copy_path": "references/pdf/QA074.pdf",
+      "extracted_text_sha256": "5f8f89843c59d95eb2dcce78ec30159e9336a193ab880bfb6d4289a7fa92e95e",
+      "extracted_text_chars": 967
+    },
+    {
+      "source_id": "QA075",
+      "title": "QA075_会计司实施问答·外币折算准则_外币预收账款和预付账款是货币性项目还是非货币性项目，",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA075_会计司实施问答·外币折算准则_外币预收账款和预付账款是货币性项目还是非货币性项目，.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA075_会计司实施问答·外币折算准则_外币预收账款和预付账款是货币性项目还是非货币性项目，.pdf",
+        "25_会计准则与实施材料/B143_QA075_会计司实施问答·外币折算准则_外币预收账款和预付账款是货币性项目还是非货币性项目，.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "a235917406e54b4343839b509a87d0b58b058fce94dc0a31846da0cf252fa7a6",
+      "pdf_bytes": 94427,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA075.txt",
+      "pdf_copy_path": "references/pdf/QA075.pdf",
+      "extracted_text_sha256": "cd5b277558fc7fc2529bc2ae1ab5696b12525047b6f820ceb1614b46588328dd",
+      "extracted_text_chars": 775
+    },
+    {
+      "source_id": "QA076",
+      "title": "QA076_会计司实施问答·无形资产准则_甲公司按照《企业会计准则第6号——无形资产》、《企业",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA076_会计司实施问答·无形资产准则_甲公司按照《企业会计准则第6号——无形资产》、《企业.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA076_会计司实施问答·无形资产准则_甲公司按照《企业会计准则第6号——无形资产》、《企业.pdf",
+        "25_会计准则与实施材料/B144_QA076_会计司实施问答·无形资产准则_甲公司按照《企业会计准则第6号——无形资产》、《企业.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "010c12c94f4c3956c4238ec6a511e61be0da7dcda65bbb0d2e6724e218b1915a",
+      "pdf_bytes": 105475,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA076.txt",
+      "pdf_copy_path": "references/pdf/QA076.pdf",
+      "extracted_text_sha256": "23f71135b6df9ed42710fbdee3b8f2fcd6de5e2a5b147f5616f8ee74d367ff49",
+      "extracted_text_chars": 1227
+    },
+    {
+      "source_id": "QA077",
+      "title": "QA077_会计司实施问答·保险合同准则_对于适用《企业会计准则第25号——保险合同》（财会〔",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA077_会计司实施问答·保险合同准则_对于适用《企业会计准则第25号——保险合同》（财会〔.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA077_会计司实施问答·保险合同准则_对于适用《企业会计准则第25号——保险合同》（财会〔.pdf",
+        "25_会计准则与实施材料/B145_QA077_会计司实施问答·保险合同准则_对于适用《企业会计准则第25号——保险合同》（财会〔.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "bbaf7f8257f95b88bfeb1ff4779c8928b0f4f39cf2d6de0dafea0382ab5e9410",
+      "pdf_bytes": 105664,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA077.txt",
+      "pdf_copy_path": "references/pdf/QA077.pdf",
+      "extracted_text_sha256": "1abae754b450b3c8a78413fb73fe19f0390a510a8d6b9eeb6d92f5374586dcb0",
+      "extracted_text_chars": 1056
+    },
+    {
+      "source_id": "QA078",
+      "title": "QA078_会计司实施问答·保险合同准则_保险公司改变保险合同负债计量所采用的折现率的确定方法",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA078_会计司实施问答·保险合同准则_保险公司改变保险合同负债计量所采用的折现率的确定方法.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA078_会计司实施问答·保险合同准则_保险公司改变保险合同负债计量所采用的折现率的确定方法.pdf",
+        "25_会计准则与实施材料/B146_QA078_会计司实施问答·保险合同准则_保险公司改变保险合同负债计量所采用的折现率的确定方法.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "99860f2d2347789bd1465be409952ec691bc5a5984ebbc10f6f74063ffe15861",
+      "pdf_bytes": 111499,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA078.txt",
+      "pdf_copy_path": "references/pdf/QA078.pdf",
+      "extracted_text_sha256": "8d6f949fdf5703ad6db8cc5c404f1e4142c93c815b2a124d6d2f495defc65850",
+      "extracted_text_chars": 1105
+    },
+    {
+      "source_id": "QA079",
+      "title": "QA079_会计司实施问答·保险合同准则_根据《关于加强万能型人身保险监管有关事项的通知》（金",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA079_会计司实施问答·保险合同准则_根据《关于加强万能型人身保险监管有关事项的通知》（金.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA079_会计司实施问答·保险合同准则_根据《关于加强万能型人身保险监管有关事项的通知》（金.pdf",
+        "25_会计准则与实施材料/B147_QA079_会计司实施问答·保险合同准则_根据《关于加强万能型人身保险监管有关事项的通知》（金.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "e2c8074c56aef117d9e765936fb5d9d7de30a4549fa518097e85627f91ebf636",
+      "pdf_bytes": 103664,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA079.txt",
+      "pdf_copy_path": "references/pdf/QA079.pdf",
+      "extracted_text_sha256": "021b654ddf1e637186bfb2cb5ab128dcc3c4d7cc1acd09f67b2242dd2118077e",
+      "extracted_text_chars": 962
+    },
+    {
+      "source_id": "QA080",
+      "title": "QA080_会计司实施问答·保险合同准则_企业在评估保险合同是否为具有直接参与分红特征的保险合",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA080_会计司实施问答·保险合同准则_企业在评估保险合同是否为具有直接参与分红特征的保险合.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA080_会计司实施问答·保险合同准则_企业在评估保险合同是否为具有直接参与分红特征的保险合.pdf",
+        "25_会计准则与实施材料/B148_QA080_会计司实施问答·保险合同准则_企业在评估保险合同是否为具有直接参与分红特征的保险合.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "8fd8427a30368c8f934f94b8a56d1d936733f611223dc70b1702f242d4595bc3",
+      "pdf_bytes": 107839,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA080.txt",
+      "pdf_copy_path": "references/pdf/QA080.pdf",
+      "extracted_text_sha256": "5c8bbdff8293379b1312e5a21b5f894ac11f90bfce5fa67bbe0286150b96a986",
+      "extracted_text_chars": 932
+    },
+    {
+      "source_id": "QA081",
+      "title": "QA081_会计司实施问答·保险合同准则_对于一项同时包含主险和附加险的保险合同，企业应当如何",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA081_会计司实施问答·保险合同准则_对于一项同时包含主险和附加险的保险合同，企业应当如何.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA081_会计司实施问答·保险合同准则_对于一项同时包含主险和附加险的保险合同，企业应当如何.pdf",
+        "25_会计准则与实施材料/B149_QA081_会计司实施问答·保险合同准则_对于一项同时包含主险和附加险的保险合同，企业应当如何.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "9a80b92bd18bf2bd4c57b733ee1b3b0c3fced22769b2f269b36406fc116da4d5",
+      "pdf_bytes": 98283,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA081.txt",
+      "pdf_copy_path": "references/pdf/QA081.pdf",
+      "extracted_text_sha256": "ecba5bc2a5f35bedd795ecf2ac365e86f37eab2371b8ba812172eaed0a65a06d",
+      "extracted_text_chars": 1176
+    },
+    {
+      "source_id": "QA082",
+      "title": "QA082_会计司实施问答·保险合同准则_根据新保险合同会计准则，企业如何采用“自下而上的方法",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA082_会计司实施问答·保险合同准则_根据新保险合同会计准则，企业如何采用“自下而上的方法.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA082_会计司实施问答·保险合同准则_根据新保险合同会计准则，企业如何采用“自下而上的方法.pdf",
+        "25_会计准则与实施材料/B150_QA082_会计司实施问答·保险合同准则_根据新保险合同会计准则，企业如何采用“自下而上的方法.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "0e171a43280209a6dc3bcdaeadb1b60f07f75cec7d39b6f37a9a0c3d784688b0",
+      "pdf_bytes": 106963,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA082.txt",
+      "pdf_copy_path": "references/pdf/QA082.pdf",
+      "extracted_text_sha256": "582dfda0c3ec8f15e0297199a069c68fe47d0d227c45796350c2ea14c5613d8d",
+      "extracted_text_chars": 1005
+    },
+    {
+      "source_id": "QA083",
+      "title": "QA083_会计司实施问答·保险合同准则_新保险合同会计准则第九章中的有关披露要求如何与《企业",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA083_会计司实施问答·保险合同准则_新保险合同会计准则第九章中的有关披露要求如何与《企业.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA083_会计司实施问答·保险合同准则_新保险合同会计准则第九章中的有关披露要求如何与《企业.pdf",
+        "25_会计准则与实施材料/B151_QA083_会计司实施问答·保险合同准则_新保险合同会计准则第九章中的有关披露要求如何与《企业.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "f870e8cc8ec0e207c86b6529d42c1cd1cb3531c8be6a97c59d1c200a14949cdc",
+      "pdf_bytes": 80184,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA083.txt",
+      "pdf_copy_path": "references/pdf/QA083.pdf",
+      "extracted_text_sha256": "18cb892754400e95aa37c764aa3e0b643636beff53dc89ef28385462d37cd14a",
+      "extracted_text_chars": 700
+    },
+    {
+      "source_id": "QA084",
+      "title": "QA084_会计司实施问答·保险合同准则_对于具有直接参与分红特征的保险合同，企业选择将保险合",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA084_会计司实施问答·保险合同准则_对于具有直接参与分红特征的保险合同，企业选择将保险合.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA084_会计司实施问答·保险合同准则_对于具有直接参与分红特征的保险合同，企业选择将保险合.pdf",
+        "25_会计准则与实施材料/B152_QA084_会计司实施问答·保险合同准则_对于具有直接参与分红特征的保险合同，企业选择将保险合.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "bd49808273b87ae4f8610158671893955f5df05ffb6a3623b54fd7f84f0c0fa2",
+      "pdf_bytes": 104780,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA084.txt",
+      "pdf_copy_path": "references/pdf/QA084.pdf",
+      "extracted_text_sha256": "79e3c25f7a421895143cc652c149b916b662dcdf2373a7d862d9bca84474360c",
+      "extracted_text_chars": 893
+    },
+    {
+      "source_id": "QA085",
+      "title": "QA085_会计司实施问答·保险合同准则_如果子公司执行新保险合同会计准则的时间晚于集团公司，",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA085_会计司实施问答·保险合同准则_如果子公司执行新保险合同会计准则的时间晚于集团公司，.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA085_会计司实施问答·保险合同准则_如果子公司执行新保险合同会计准则的时间晚于集团公司，.pdf",
+        "25_会计准则与实施材料/B153_QA085_会计司实施问答·保险合同准则_如果子公司执行新保险合同会计准则的时间晚于集团公司，.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "0e6b0ae6aac5db83222ab6be1ba367a4545d8f42a42e7a05a6776b2c478a8569",
+      "pdf_bytes": 104042,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA085.txt",
+      "pdf_copy_path": "references/pdf/QA085.pdf",
+      "extracted_text_sha256": "c172b87731f1486479d0db657982c3270cf6363d93a9b54180d98ab26dec4460",
+      "extracted_text_chars": 1067
+    },
+    {
+      "source_id": "QA086",
+      "title": "QA086_会计司实施问答·现金流量表准则_执行企业会计准则的企业应当如何对增值税期末留抵退税业",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA086_会计司实施问答·现金流量表准则_执行企业会计准则的企业应当如何对增值税期末留抵退税业.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA086_会计司实施问答·现金流量表准则_执行企业会计准则的企业应当如何对增值税期末留抵退税业.pdf",
+        "25_会计准则与实施材料/B154_QA086_会计司实施问答·现金流量表准则_执行企业会计准则的企业应当如何对增值税期末留抵退税业.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "112987bbbe8e0f368765b754ba9d339d5b850bf64a0b80499d3ebee82148df42",
+      "pdf_bytes": 95805,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA086.txt",
+      "pdf_copy_path": "references/pdf/QA086.pdf",
+      "extracted_text_sha256": "3908f5e3ceca95b84b7a70bc94597907dfb1f95881c9c531a0fea41bb62dfc9e",
+      "extracted_text_chars": 808
+    },
+    {
+      "source_id": "QA087",
+      "title": "QA087_会计司实施问答·新租赁准则_执行《小企业会计准则》的企业应当如何对增值税期末留抵",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA087_会计司实施问答·新租赁准则_执行《小企业会计准则》的企业应当如何对增值税期末留抵.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA087_会计司实施问答·新租赁准则_执行《小企业会计准则》的企业应当如何对增值税期末留抵.pdf",
+        "25_会计准则与实施材料/B155_QA087_会计司实施问答·新租赁准则_执行《小企业会计准则》的企业应当如何对增值税期末留抵.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "bf5c80d6c3ebb12e8cc1c14bbb476d7e384519428277b3daa2f705d95b4ab87e",
+      "pdf_bytes": 94326,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA087.txt",
+      "pdf_copy_path": "references/pdf/QA087.pdf",
+      "extracted_text_sha256": "55aaf7c14945a94509e5dd091e0eb994f2dc20d8a92ec9a9179cc28ed4a8f24f",
+      "extracted_text_chars": 800
+    },
+    {
+      "source_id": "QA088",
+      "title": "QA088_会计司实施问答·新租赁准则_执行《小企业会计准则》的企业作为个人所得税的扣缴义务",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA088_会计司实施问答·新租赁准则_执行《小企业会计准则》的企业作为个人所得税的扣缴义务.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA088_会计司实施问答·新租赁准则_执行《小企业会计准则》的企业作为个人所得税的扣缴义务.pdf",
+        "25_会计准则与实施材料/B156_QA088_会计司实施问答·新租赁准则_执行《小企业会计准则》的企业作为个人所得税的扣缴义务.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "29ee7a05b6c5e309b9df9e7e5eb520fee51a939a3d06e1d521369db6be1af15e",
+      "pdf_bytes": 78340,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA088.txt",
+      "pdf_copy_path": "references/pdf/QA088.pdf",
+      "extracted_text_sha256": "edb3c04d23f47ade0a110312dcb15744e60b4660b16c5b8c95dfa45e22f3b554",
+      "extracted_text_chars": 682
+    },
+    {
+      "source_id": "QA089",
+      "title": "QA089_会计司实施问答·资产减值准则_上市公司乙公司是甲公司的联营企业，甲公司对乙公司的长",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA089_会计司实施问答·资产减值准则_上市公司乙公司是甲公司的联营企业，甲公司对乙公司的长.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA089_会计司实施问答·资产减值准则_上市公司乙公司是甲公司的联营企业，甲公司对乙公司的长.pdf",
+        "25_会计准则与实施材料/B157_QA089_会计司实施问答·资产减值准则_上市公司乙公司是甲公司的联营企业，甲公司对乙公司的长.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "38b7f8d1946f13bb921fb4e275cb95d4dba424fe6c8ce6425e3b97a969a5bdb5",
+      "pdf_bytes": 103717,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA089.txt",
+      "pdf_copy_path": "references/pdf/QA089.pdf",
+      "extracted_text_sha256": "163196c4cb672faf4b24bc2941522bdb4d04ce3ee9c032aa7bb633f4b5caff28",
+      "extracted_text_chars": 987
+    },
+    {
+      "source_id": "QA090",
+      "title": "QA090_会计司实施问答·资产减值准则_企业合并所形成的商誉应当自购买日起按照合理的方法分摊",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA090_会计司实施问答·资产减值准则_企业合并所形成的商誉应当自购买日起按照合理的方法分摊.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA090_会计司实施问答·资产减值准则_企业合并所形成的商誉应当自购买日起按照合理的方法分摊.pdf",
+        "25_会计准则与实施材料/B158_QA090_会计司实施问答·资产减值准则_企业合并所形成的商誉应当自购买日起按照合理的方法分摊.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "9b98f99fe55a918ea2097a1dad00b59d984b46b139ca54bfd03e904175aad327",
+      "pdf_bytes": 100358,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA090.txt",
+      "pdf_copy_path": "references/pdf/QA090.pdf",
+      "extracted_text_sha256": "01b7ad55242fa66de6f4292ee63cf5bc1ae125cffe470746c0cceb87f53f4e59",
+      "extracted_text_chars": 851
+    },
+    {
+      "source_id": "QA091",
+      "title": "QA091_会计司实施问答·政府补助准则_甲公司主要从事某材料的生产，于2×25年9月1日在乙",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA091_会计司实施问答·政府补助准则_甲公司主要从事某材料的生产，于2×25年9月1日在乙.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA091_会计司实施问答·政府补助准则_甲公司主要从事某材料的生产，于2×25年9月1日在乙.pdf",
+        "25_会计准则与实施材料/B159_QA091_会计司实施问答·政府补助准则_甲公司主要从事某材料的生产，于2×25年9月1日在乙.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "fff1bc207bb23bcfd1dbe38e7b13465d26f039a3697e8e973ab4e053c697cffc",
+      "pdf_bytes": 113358,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA091.txt",
+      "pdf_copy_path": "references/pdf/QA091.pdf",
+      "extracted_text_sha256": "c1a928600ed9b307a899742d3ed2aa6ed65a9656c635e941f6252a4d8c75584b",
+      "extracted_text_chars": 1136
+    },
+    {
+      "source_id": "QA092",
+      "title": "QA092_会计司实施问答·政府补助准则_甲公司租赁某物业，租赁期为5年，每3个月支付一次租金",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA092_会计司实施问答·政府补助准则_甲公司租赁某物业，租赁期为5年，每3个月支付一次租金.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA092_会计司实施问答·政府补助准则_甲公司租赁某物业，租赁期为5年，每3个月支付一次租金.pdf",
+        "25_会计准则与实施材料/B160_QA092_会计司实施问答·政府补助准则_甲公司租赁某物业，租赁期为5年，每3个月支付一次租金.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "79d2db1a9a9d7dcac6684bbda4a59704d972d33182768cbdf323e01de9652c37",
+      "pdf_bytes": 102006,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA092.txt",
+      "pdf_copy_path": "references/pdf/QA092.pdf",
+      "extracted_text_sha256": "6d1dc77022b9855cb081518a41ed036227d06261876386200a0a5601124068f5",
+      "extracted_text_chars": 998
+    },
+    {
+      "source_id": "QA093",
+      "title": "QA093_会计司实施问答·租赁准则_《新冠肺炎疫情相关租金减让会计处理规定》简化处理方法",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA093_会计司实施问答·租赁准则_《新冠肺炎疫情相关租金减让会计处理规定》简化处理方法.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA093_会计司实施问答·租赁准则_《新冠肺炎疫情相关租金减让会计处理规定》简化处理方法.pdf",
+        "25_会计准则与实施材料/B161_QA093_会计司实施问答·租赁准则_《新冠肺炎疫情相关租金减让会计处理规定》简化处理方法.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "ef3a0df50e8abd81843a60af297d1d69e4ad635365619138512a196eb832cc0a",
+      "pdf_bytes": 112826,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA093.txt",
+      "pdf_copy_path": "references/pdf/QA093.pdf",
+      "extracted_text_sha256": "540ce6a0117ce02ce0e8764cf9972846fce0dd380a39e808ef706e7439f0c0cf",
+      "extracted_text_chars": 1235
+    },
+    {
+      "source_id": "QA094",
+      "title": "QA094_会计司实施问答·租赁准则_承租人与出租人签订租赁期为1年的租赁合同，能否简单认",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA094_会计司实施问答·租赁准则_承租人与出租人签订租赁期为1年的租赁合同，能否简单认.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA094_会计司实施问答·租赁准则_承租人与出租人签订租赁期为1年的租赁合同，能否简单认.pdf",
+        "25_会计准则与实施材料/B162_QA094_会计司实施问答·租赁准则_承租人与出租人签订租赁期为1年的租赁合同，能否简单认.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "56f35fca7c5a878207f0e5a918632372ae69e101a7d36536f8a029a9a7fc6356",
+      "pdf_bytes": 107506,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA094.txt",
+      "pdf_copy_path": "references/pdf/QA094.pdf",
+      "extracted_text_sha256": "f361b69212a8f00b81ed17d8715fb679e23d276e23df445dfb747ad5877a8469",
+      "extracted_text_chars": 1054
+    },
+    {
+      "source_id": "QA095",
+      "title": "QA095_会计司实施问答·租赁准则_租赁期不超过12个月且包含购买选择权的租赁是否属于短",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA095_会计司实施问答·租赁准则_租赁期不超过12个月且包含购买选择权的租赁是否属于短.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA095_会计司实施问答·租赁准则_租赁期不超过12个月且包含购买选择权的租赁是否属于短.pdf",
+        "25_会计准则与实施材料/B163_QA095_会计司实施问答·租赁准则_租赁期不超过12个月且包含购买选择权的租赁是否属于短.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "84575845a089529f6f86c37835b141f7062fbc8519c174373e0f02b4e249859a",
+      "pdf_bytes": 74170,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA095.txt",
+      "pdf_copy_path": "references/pdf/QA095.pdf",
+      "extracted_text_sha256": "0cd0cb9e7189afc99a2abc52a7644b3498781e7dd09aff3b330936654b43f02e",
+      "extracted_text_chars": 650
+    },
+    {
+      "source_id": "QA096",
+      "title": "QA096_会计司实施问答·租赁准则_承租人发生的租赁资产改良支出及其导致的预计复原支出应",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA096_会计司实施问答·租赁准则_承租人发生的租赁资产改良支出及其导致的预计复原支出应.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA096_会计司实施问答·租赁准则_承租人发生的租赁资产改良支出及其导致的预计复原支出应.pdf",
+        "25_会计准则与实施材料/B164_QA096_会计司实施问答·租赁准则_承租人发生的租赁资产改良支出及其导致的预计复原支出应.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "0e67f7a490a1408af31d8eaa1f650fbac37c2bf26a5e600593a6657b8fd52e93",
+      "pdf_bytes": 102063,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA096.txt",
+      "pdf_copy_path": "references/pdf/QA096.pdf",
+      "extracted_text_sha256": "88d9132baf3d9eba903d6f4b39329b8fc7418c8d1bcb8177f0b001ca0d1ef48e",
+      "extracted_text_chars": 919
+    },
+    {
+      "source_id": "QA097",
+      "title": "QA097_会计司实施问答·租赁准则_承租人偿还租赁负债本金和利息、支付预付租金以及租赁保",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA097_会计司实施问答·租赁准则_承租人偿还租赁负债本金和利息、支付预付租金以及租赁保.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA097_会计司实施问答·租赁准则_承租人偿还租赁负债本金和利息、支付预付租金以及租赁保.pdf",
+        "25_会计准则与实施材料/B165_QA097_会计司实施问答·租赁准则_承租人偿还租赁负债本金和利息、支付预付租金以及租赁保.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "be955c681728729e5ba68bfdcebc2dc80d72c0a43bb8ea12d46e8b5dcc76a7a8",
+      "pdf_bytes": 91952,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA097.txt",
+      "pdf_copy_path": "references/pdf/QA097.pdf",
+      "extracted_text_sha256": "e10b6113ea29d4d024120dde8ccb26b081bae4fb69d3795925d3a30e6e7322e3",
+      "extracted_text_chars": 763
+    },
+    {
+      "source_id": "QA098",
+      "title": "QA098_会计司实施问答·租赁准则_承租人于新冠肺炎疫情期间欠付租金，出租人应当如何进行",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA098_会计司实施问答·租赁准则_承租人于新冠肺炎疫情期间欠付租金，出租人应当如何进行.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA098_会计司实施问答·租赁准则_承租人于新冠肺炎疫情期间欠付租金，出租人应当如何进行.pdf",
+        "25_会计准则与实施材料/B166_QA098_会计司实施问答·租赁准则_承租人于新冠肺炎疫情期间欠付租金，出租人应当如何进行.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "099f2c45104d3c4a06257d5aad7319bd2584f68177df9da10278fda8fed5af06",
+      "pdf_bytes": 103730,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA098.txt",
+      "pdf_copy_path": "references/pdf/QA098.pdf",
+      "extracted_text_sha256": "436dc1382b98ae6ecc50cfb26e5164d0ef0e539e22bdf31e202c67c0f151d541",
+      "extracted_text_chars": 957
+    },
+    {
+      "source_id": "QA099",
+      "title": "QA099_会计司实施问答·租赁准则_某租赁合同变更导致租赁期缩短至1年以内，承租人应当如",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA099_会计司实施问答·租赁准则_某租赁合同变更导致租赁期缩短至1年以内，承租人应当如.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA099_会计司实施问答·租赁准则_某租赁合同变更导致租赁期缩短至1年以内，承租人应当如.pdf",
+        "25_会计准则与实施材料/B167_QA099_会计司实施问答·租赁准则_某租赁合同变更导致租赁期缩短至1年以内，承租人应当如.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "6432ae62d926c563696e995a13f39ff3946a595d7e3d9ace8854065eb8773967",
+      "pdf_bytes": 97960,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA099.txt",
+      "pdf_copy_path": "references/pdf/QA099.pdf",
+      "extracted_text_sha256": "6767bb4e813355bbe21684192ea26e21840ea7885381d156eb4b3375a71fc7d8",
+      "extracted_text_chars": 799
+    },
+    {
+      "source_id": "QA100",
+      "title": "QA100_会计司实施问答·租赁准则_某租赁合同约定，承租人租赁设备用于生产A产品，租赁期",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA100_会计司实施问答·租赁准则_某租赁合同约定，承租人租赁设备用于生产A产品，租赁期.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA100_会计司实施问答·租赁准则_某租赁合同约定，承租人租赁设备用于生产A产品，租赁期.pdf",
+        "25_会计准则与实施材料/B168_QA100_会计司实施问答·租赁准则_某租赁合同约定，承租人租赁设备用于生产A产品，租赁期.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "1367583f6115e46098f346efe1fd3b8899749beda27dd1c805ae5c991797ce32",
+      "pdf_bytes": 103980,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA100.txt",
+      "pdf_copy_path": "references/pdf/QA100.pdf",
+      "extracted_text_sha256": "3e98c2ecc479978525916ba82e791643b0ddb49b119c1d57a23e3770129b87bb",
+      "extracted_text_chars": 994
+    },
+    {
+      "source_id": "QA101",
+      "title": "QA101_会计司实施问答·租赁准则_某租赁合同约定，初始租赁期为1年，如有一方撤销租赁将",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA101_会计司实施问答·租赁准则_某租赁合同约定，初始租赁期为1年，如有一方撤销租赁将.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA101_会计司实施问答·租赁准则_某租赁合同约定，初始租赁期为1年，如有一方撤销租赁将.pdf",
+        "25_会计准则与实施材料/B169_QA101_会计司实施问答·租赁准则_某租赁合同约定，初始租赁期为1年，如有一方撤销租赁将.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "23d346c74ca877b097a1fa42a31a864b3d37e1d23a7daa70a8309693f53ff8f0",
+      "pdf_bytes": 99272,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA101.txt",
+      "pdf_copy_path": "references/pdf/QA101.pdf",
+      "extracted_text_sha256": "a1f43b409a0cceadbaf18f0f7f6d70173f4a2604543eae061739d50ecc4f4aa9",
+      "extracted_text_chars": 867
+    },
+    {
+      "source_id": "QA102",
+      "title": "QA102_会计司实施问答·债务重组准则_债权人和债务人以资产清偿债务方式进行债务重组的，债权",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA102_会计司实施问答·债务重组准则_债权人和债务人以资产清偿债务方式进行债务重组的，债权.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA102_会计司实施问答·债务重组准则_债权人和债务人以资产清偿债务方式进行债务重组的，债权.pdf",
+        "25_会计准则与实施材料/B170_QA102_会计司实施问答·债务重组准则_债权人和债务人以资产清偿债务方式进行债务重组的，债权.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "a65ce59b60158d39d77b4e85bd52c853b51ad069335505b99c9759556c18ab25",
+      "pdf_bytes": 93692,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA102.txt",
+      "pdf_copy_path": "references/pdf/QA102.pdf",
+      "extracted_text_sha256": "dfeaad3880875c9b09647a4423be1c53b1e06b6ce067c66ab3a5ea81ceabb78c",
+      "extracted_text_chars": 704
+    },
+    {
+      "source_id": "QA103",
+      "title": "QA103_会计司实施问答·债务重组准则_债务人能否在债务重组合同签署时确认债务重组损益？",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA103_会计司实施问答·债务重组准则_债务人能否在债务重组合同签署时确认债务重组损益？.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA103_会计司实施问答·债务重组准则_债务人能否在债务重组合同签署时确认债务重组损益？.pdf",
+        "25_会计准则与实施材料/B171_QA103_会计司实施问答·债务重组准则_债务人能否在债务重组合同签署时确认债务重组损益？.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "6c0f16e58d0cebadba9f9bb4541a532bc7af6b1e944abea36dd4bce075c43006",
+      "pdf_bytes": 96620,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA103.txt",
+      "pdf_copy_path": "references/pdf/QA103.pdf",
+      "extracted_text_sha256": "bc057d4f86b1965ae205bdecc2a7044faa5b1c0ec51d83ef43e5265326f6670f",
+      "extracted_text_chars": 786
+    },
+    {
+      "source_id": "QA104",
+      "title": "QA104_会计司实施问答·债务重组准则_债务重组的方式主要包括债务人以资产清偿债务、将债务转",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA104_会计司实施问答·债务重组准则_债务重组的方式主要包括债务人以资产清偿债务、将债务转.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA104_会计司实施问答·债务重组准则_债务重组的方式主要包括债务人以资产清偿债务、将债务转.pdf",
+        "25_会计准则与实施材料/B172_QA104_会计司实施问答·债务重组准则_债务重组的方式主要包括债务人以资产清偿债务、将债务转.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "c8d0d4ab73fdcd6975da952c6f65313861937a890bf202f7e68fe11f528e5d61",
+      "pdf_bytes": 101921,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA104.txt",
+      "pdf_copy_path": "references/pdf/QA104.pdf",
+      "extracted_text_sha256": "204aacebf52e7102830f9980e6199f3c317b0047579f984bd87b1693de164979",
+      "extracted_text_chars": 924
+    },
+    {
+      "source_id": "QA105",
+      "title": "QA105_会计司实施问答·债务重组准则_债务人以存货清偿债务方式进行的债务重组，是否应当作为",
+      "category": "会计司实施问答",
+      "authority_layer": "supplementary_qa",
+      "status_hint": "实施问答或实施材料；须与对应法律、准则正文联读",
+      "canonical_original_path": "06_会计司实施问答/QA105_会计司实施问答·债务重组准则_债务人以存货清偿债务方式进行的债务重组，是否应当作为.pdf",
+      "original_paths": [
+        "06_会计司实施问答/QA105_会计司实施问答·债务重组准则_债务人以存货清偿债务方式进行的债务重组，是否应当作为.pdf",
+        "25_会计准则与实施材料/B173_QA105_会计司实施问答·债务重组准则_债务人以存货清偿债务方式进行的债务重组，是否应当作为.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "47f4f674ae16f1de00150685bfdbf2666ca1f0a4acc11378fa6eff5d00553f01",
+      "pdf_bytes": 96389,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/QA105.txt",
+      "pdf_copy_path": "references/pdf/QA105.pdf",
+      "extracted_text_sha256": "43a9e9b679fda44a8e8ad71f129f9cc00736b5384bc0b7616baa77240ecbd733",
+      "extracted_text_chars": 791
+    },
+    {
+      "source_id": "T003",
+      "title": "T003_关于外籍个人股息红利个人所得税政策有关事项的公告",
+      "category": "所得税与税收征管",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "02_所得税及税收征管/T003_关于外籍个人股息红利个人所得税政策有关事项的公告.pdf",
+      "original_paths": [
+        "02_所得税及税收征管/T003_关于外籍个人股息红利个人所得税政策有关事项的公告.pdf",
+        "04_个人所得税/B003_T003_关于外籍个人股息红利个人所得税政策有关事项的公告.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "6a1ddef271bbeb9ce91438c8994ef73e9cff2180fec395b92b3f1427c722c53a",
+      "pdf_bytes": 79584,
+      "pdf_page_count": 1,
+      "extracted_text_path": "references/text/T003.txt",
+      "pdf_copy_path": "references/pdf/T003.pdf",
+      "extracted_text_sha256": "06889814b7687b12570cc4f8a18f578f26b1f5a06cb3bee3060b15f798145fe6",
+      "extracted_text_chars": 672
+    },
+    {
+      "source_id": "T004",
+      "title": "T004_中华人民共和国企业所得税法（2018年修正）",
+      "category": "所得税与税收征管",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "02_所得税及税收征管/T004_中华人民共和国企业所得税法（2018年修正）.pdf",
+      "original_paths": [
+        "02_所得税及税收征管/T004_中华人民共和国企业所得税法（2018年修正）.pdf",
+        "03_企业所得税/B004_T004_中华人民共和国企业所得税法（2018年修正）.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "cfbe07fa74b39dee7366194173a75aca8c1302bbbeb93a5689026a761ae6b9fc",
+      "pdf_bytes": 203510,
+      "pdf_page_count": 7,
+      "extracted_text_path": "references/text/T004.txt",
+      "pdf_copy_path": "references/pdf/T004.pdf",
+      "extracted_text_sha256": "62a1d4e1f4344f3ff417bdaa3850129000f141bac68e07b43c55d7a87121d3ef",
+      "extracted_text_chars": 6791
+    },
+    {
+      "source_id": "T005",
+      "title": "T005_关于集成电路企业、工业母机企业非货币性资产交换企业所得税政策的公告",
+      "category": "所得税与税收征管",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "02_所得税及税收征管/T005_关于集成电路企业、工业母机企业非货币性资产交换企业所得税政策的公告.pdf",
+      "original_paths": [
+        "02_所得税及税收征管/T005_关于集成电路企业、工业母机企业非货币性资产交换企业所得税政策的公告.pdf",
+        "03_企业所得税/B005_T005_关于集成电路企业、工业母机企业非货币性资产交换企业所得税政策的公告.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "1fbc1912c10103fdabb11f22c68991e0a51bf9692e9442f6a3d567af9380e23e",
+      "pdf_bytes": 122163,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/T005.txt",
+      "pdf_copy_path": "references/pdf/T005.pdf",
+      "extracted_text_sha256": "2f33f45799f1e47c791f2f450b12f8fab9595c9c31cc6c28010baf648028ee48",
+      "extracted_text_chars": 2073
+    },
+    {
+      "source_id": "T006",
+      "title": "T006_中华人民共和国个人所得税法（2018年修正，含税率表）",
+      "category": "所得税与税收征管",
+      "authority_layer": "primary_or_formal",
+      "status_hint": "正式制度文本候选来源；仍须核对发布、施行、修正和适用范围",
+      "canonical_original_path": "02_所得税及税收征管/T006_中华人民共和国个人所得税法（2018年修正，含税率表）.pdf",
+      "original_paths": [
+        "02_所得税及税收征管/T006_中华人民共和国个人所得税法（2018年修正，含税率表）.pdf",
+        "04_个人所得税/B006_T006_中华人民共和国个人所得税法（2018年修正，含税率表）.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "1b4cdc292745c52b0e5d13142c8874ede4cf975429f7681226eca3676491a380",
+      "pdf_bytes": 194711,
+      "pdf_page_count": 6,
+      "extracted_text_path": "references/text/T006.txt",
+      "pdf_copy_path": "references/pdf/T006.pdf",
+      "extracted_text_sha256": "5c681b972e3d40197c9dc69f80d4eace9b4c895baeda1c999784b4946324f29a",
+      "extracted_text_chars": 6003
+    },
+    {
+      "source_id": "T007",
+      "title": "T007_企业所得税相关热点问答（上海税务，2026年4月）",
+      "category": "税务机关解读与地方口径",
+      "authority_layer": "local_guidance",
+      "status_hint": "地方解读或地方口径；只在主体、地点和期间匹配时参考",
+      "canonical_original_path": "07_税务机关解读及地方口径/T007_企业所得税相关热点问答（上海税务，2026年4月）.pdf",
+      "original_paths": [
+        "07_税务机关解读及地方口径/T007_企业所得税相关热点问答（上海税务，2026年4月）.pdf",
+        "25_会计准则与实施材料/B174_T007_企业所得税相关热点问答（上海税务，2026年4月）.pdf"
+      ],
+      "duplicate_copy_count": 2,
+      "pdf_sha256": "7609ee424856d90292e73f155a2137eaae2bf46391ac631bcfbf1d632c8f521f",
+      "pdf_bytes": 125977,
+      "pdf_page_count": 2,
+      "extracted_text_path": "references/text/T007.txt",
+      "pdf_copy_path": "references/pdf/T007.pdf",
+      "extracted_text_sha256": "c5b1600b04d1c3bcb8a3172546558e59157ce57c3c65dccf3dddb6b9b9b08fed",
+      "extracted_text_chars": 1570
+    }
+  ]
+}
